@@ -1,12 +1,14 @@
 #### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12917
 
 #### 문제:
-![Uploading 스크린샷 2021-01-25 오후 12.18.01.png…]()
+<img width="703" alt="스크린샷 2021-01-25 오후 12 18 01" src="https://user-images.githubusercontent.com/60768642/105668138-11f82780-5f20-11eb-8ff7-0bc19d216cb8.png">
 
 
 #### my solution
+```
 def solution(s):
     return ''.join(sorted(s, reverse=True))
+```
 
 #### 사고과정
 1. 알파벳을 역정렬 하기 위해서 sorted()함수를 사용한다.
