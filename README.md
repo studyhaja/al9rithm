@@ -13,6 +13,8 @@
 - [@Einsicht1](https://github.com/Einsicht1)
 
 ### 풀이 현황
-날짜 | 작성자 | 문제
-:--:|:----:|:---:|
-Jan_5||
+|날짜|작성자|문제|
+|:---:|:---:|:---:|
+|Jan_5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)
+||||
+||||
