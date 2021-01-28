@@ -49,3 +49,30 @@ def solution(arr, divisor):
 def solution(arr, divisor): 
     return sorted([n for n in arr if n%divisor == 0]) or [-1]
 ```
+
+
+### Q3.
+
+#### Q link: https://programmers.co.kr/learn/courses/30/lessons/12906
+
+#### 문제
+<img width="703" alt="스크린샷 2021-01-28 오후 11 00 48" src="https://user-images.githubusercontent.com/60768642/106148692-b4ccd200-61bc-11eb-943d-8c5cf7e0bfd8.png">
+
+
+#### my solution
+```
+def solution(arr):
+    answer = []
+    answer.append(arr[0])
+    for i in range(1, len(arr)):
+        if arr[i] == arr[i-1]:
+            continue
+        answer.append(arr[i])
+    return answer
+```
+
+#### 사고과정
+1. 빈 리스트를 만들고 결과값들을 append하는 전략을 쓴다(순차적으로 값을 만들어 return해야 하기 때문에)
+2. 인덱스 0번은 무조건 append한다.
+3. 인덱스 1번부터, 직전 인덱스 숫자와 비교하여 같으면 pass하고, 다르면 append한다.
+
