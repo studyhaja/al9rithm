@@ -76,3 +76,14 @@ def solution(arr):
 2. 인덱스 0번은 무조건 append한다.
 3. 인덱스 1번부터, 직전 인덱스 숫자와 비교하여 같으면 pass하고, 다르면 append한다.
 
+
+#### 다른 사람의 풀이
+```
+def no_continuous(s):
+    a = []
+    for i in s:
+        if a[-1:] == [i]: continue
+        a.append(i)
+    return a
+```
+
