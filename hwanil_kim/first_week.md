@@ -87,3 +87,40 @@ def no_continuous(s):
     return a
 ```
 
+### Q4.
+
+#### Q link: https://programmers.co.kr/learn/courses/30/lessons/42840
+#### 문제
+<img width="665" alt="스크린샷 2021-01-29 오후 10 22 49" src="https://user-images.githubusercontent.com/60768642/106279971-9f20e080-6280-11eb-80ab-d17fe27bef60.png">
+#### my solution
+```
+def solution(answers):
+    n1 = [1,2,3,4,5]
+    n2 = [2,1,2,3,2,4,2,5]
+    n3 = [3,3,1,1,2,2,4,4,5,5]
+    answer = []
+    
+    cnt1, cnt2, cnt3 = 0, 0, 0
+    for i in range(len(answers)):
+        if answers[i] == n1[i % 5]:
+            cnt1 += 1
+        if answers[i] == n2[i % 8]:
+            cnt2 += 1
+        if answers[i] == n3[i % 10]:
+            cnt3 += 1
+    max_cnt = max(cnt1, cnt2, cnt3)
+    if cnt1 == max_cnt:
+        answer.append(1)
+    if cnt2 == max_cnt:
+        answer.append(2)
+    if cnt3 == max_cnt:
+        answer.append(3)
+    return answer
+```
+
+####사고과정
+1. 일단 정해진 패턴 3개를 담은 리스트를 만든다.
+2. input받은 값의 len으로 for loop을 돌며 인덱스를 통해 input과 패턴 3개의 값을 비교해서 같을 경우 포인트를 1씩 증가시켜준다.
+3. for loop이 끝나고 제일 큰 값을 찾는다.
+4. 제일 큰 값이 2개 이상일 수도 있으니 하나씩 확인해가며 제일 큰 값을 순서대로 결과 리스트에 추가해준다.
+
