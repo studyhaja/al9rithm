@@ -124,3 +124,76 @@ def solution(answers):
 3. for loop이 끝나고 제일 큰 값을 찾는다.
 4. 제일 큰 값이 2개 이상일 수도 있으니 하나씩 확인해가며 제일 큰 값을 순서대로 결과 리스트에 추가해준다.
 
+
+
+### Q5.
+####문제: 회문(palindrome) 만들기
+
+회문설명 :
+- 원 단어를 거꾸로 뒤집어도 똑같은 단어
+- 'level'은 회문이다.
+- 'top'은 회문이다.
+- 1 글자일 경우 return True한다.
+
+#### 풀이 1. for문 활용
+```
+def check_palindrome(data):
+    res = True
+    for i in range(len(data)):
+        if data[i] == data[-(i+1)]:
+            pass
+        else:
+            res = False
+    return res
+
+```
+
+#### 풀이 2. 재귀용법 활용
+```
+def check_palindrome(data):
+    if len(data) == 1:
+        return True
+    if data[0] == data[-1]:
+        return check_palindrome(data[1:-1])
+    return False
+
+```
+
+
+### Q6.
+####문제: 
+![image](https://user-images.githubusercontent.com/60768642/106373749-098c6a80-63c0-11eb-8e73-8fc54bca7e81.png)
+
+#### 풀이(재귀용법 활용):
+```
+def until_one(num):
+    print(num)
+    if num == 1:
+        return num
+    
+    if num % 2 == 0:
+        #짝수
+        return until_one(int(num / 2))
+    else:
+        #홀수
+        return until_one((3 * num) + 1)
+
+a = until_one(20)
+print(a)
+```
+
+### Q7.
+#### 문제:
+![image](https://user-images.githubusercontent.com/60768642/106373763-3ccef980-63c0-11eb-9be2-3d6f87c49ffb.png)
+
+#### 풀이(재귀용법):
+```
+def func(data):
+    if data == 1:
+        return 1
+    elif data == 2:
+        return 2
+    elif data == 3:
+        return 4
+    return func(data-1) + func(data-2) + func(data-3)
+```
