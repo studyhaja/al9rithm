@@ -93,6 +93,7 @@ def no_continuous(s):
 #### 문제
 <img width="665" alt="스크린샷 2021-01-29 오후 10 22 49" src="https://user-images.githubusercontent.com/60768642/106279971-9f20e080-6280-11eb-80ab-d17fe27bef60.png">
 #### my solution
+
 ```
 def solution(answers):
     n1 = [1,2,3,4,5]
@@ -162,7 +163,8 @@ def check_palindrome(data):
 
 ### Q6.
 ####문제: 
-![image](https://user-images.githubusercontent.com/60768642/106373749-098c6a80-63c0-11eb-8e73-8fc54bca7e81.png)
+<img width="576" alt="스크린샷 2021-01-31 오후 12 29 34" src="https://user-images.githubusercontent.com/60768642/106373816-bbc43200-63c0-11eb-9903-461477833664.png">
+
 
 #### 풀이(재귀용법 활용):
 ```
@@ -184,7 +186,7 @@ print(a)
 
 ### Q7.
 #### 문제:
-![image](https://user-images.githubusercontent.com/60768642/106373763-3ccef980-63c0-11eb-9be2-3d6f87c49ffb.png)
+<img width="682" alt="스크린샷 2021-01-31 오후 12 31 08" src="https://user-images.githubusercontent.com/60768642/106373831-d3031f80-63c0-11eb-864b-5e9651b4a0cf.png">
 
 #### 풀이(재귀용법):
 ```
