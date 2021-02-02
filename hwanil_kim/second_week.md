@@ -47,3 +47,33 @@ def sumDivisor(num):
 ```
 
 n 값의 절반 이상부터는 검사할 필요 없다는 점을 활용해서 코드 성능을 더욱 향상시켰다.
+
+
+
+### Q3.
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12969
+
+#### 문제:
+<img width="690" alt="스크린샷 2021-02-02 오후 11 09 59" src="https://user-images.githubusercontent.com/70195733/106611860-ca227180-65ab-11eb-83af-21958b87825a.png">
+
+
+#### my solution
+```
+a, b = map(int, input().strip().split(' '))
+for i in range(b):
+    print("*" * a)
+```
+
+#### 사고과정
+1. 총 b개의 줄이 생기므로 for문은 b로 돌린다.
+2. 각 for문안에서 *을 a번만큼 프린트해준다.
+
+#### 다른 사람의 풀이
+```
+a, b = map(int, input().strip().split(' '))
+answer = ('*'*a +'\n')*b
+print(answer)
+```
+
+비록 마지막 줄에도 \n이 생기긴 하지만, 이 문제를 for문 없이 접근할 생각 자체를 못하던 나에겐 신선한 충격을 준 코드다.
