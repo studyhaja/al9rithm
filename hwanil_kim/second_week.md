@@ -97,3 +97,42 @@ def solution(phone_number):
 1. 마지막 4자 기준으로 문자열을 슬라이싱 한다.
 2. 4자 기준 앞문자열 수만큼 *을 써주고, 뒤 4자리와 합쳐준다.
 
+### Q5. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12931
+
+#### 문제:
+<img width="667" alt="스크린샷 2021-02-02 오후 11 28 32" src="https://user-images.githubusercontent.com/70195733/106614207-63528780-65ae-11eb-9b2b-d4425832aa86.png">
+
+
+#### my solution
+```
+def solution(n):
+    n = str(n)
+    res = 0
+    for i in range(len(n)):
+        res += int(n[i])
+
+    return res
+```
+
+#### 사고과정
+1. str 으로 만들어서 인덱싱을 사용할 수 있게 한다.
+2. len만큼 for loop을 돌며 각각 자리수 값들을 더해 return한다.
+
+#### 다른사람의 풀이
+(1)
+```
+def sum_digit(number):
+    if number < 10:
+        return number;
+    return (number % 10) + sum_digit(number // 10) 
+```
+이 사람은 재귀용법을 사용했다. 재귀를 배우긴 했지만 막상 문제풀 때 이를 활용해 풀 생각이 아직은 안난다.
+
+(2)  
+```
+def sum_digit(number):
+    return sum([int(i) for i in str(number)])
+```
+내가 푼 코드보다 짧고 가독성도 좋아 보인다. sum 내장 함수를 활용한 것도 훌륭한 듯.
