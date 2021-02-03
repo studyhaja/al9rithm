@@ -28,7 +28,7 @@
 |FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 핸드폰번호 가리기](hwanil_kim/second_week.md)| 
 |FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 자릿수 더하기](hwanil_kim/second_week.md)| 
 |FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 평균 구하기](hwanil_kim/second_week.md)| 
-|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[시저 암호](hwanil_kim/second_week.md)| 
-|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[이상한 문자 만들기](hwanil_kim/second_week.md)| 
+|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 시저 암호](hwanil_kim/second_week.md)| 
+|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
 ||||
 ||||
