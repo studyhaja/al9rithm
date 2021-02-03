@@ -30,5 +30,10 @@
 |FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 평균 구하기](hwanil_kim/second_week.md)| 
 |FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 시저 암호](hwanil_kim/second_week.md)| 
 |FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
+|FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 자연수 뒤집어 배열로 만들기](hwanil_kim/second_week.md)| 
 ||||
 ||||
+
+현랑: 1문제 <br>
+나온: 1문제 <br>
+환일: 14문제

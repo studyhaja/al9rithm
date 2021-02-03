@@ -228,3 +228,36 @@ def solution(s):
 2. for loop으로 각 단어에 하나씩 접근한다.
 3. 각 단어의 인덱스를 알기 위해 len()으로 다시 for을 돌며, 짝수일 땐 대문자화, 홀수일 떈 소문자화 한다.
 
+
+### Q9. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12932
+
+#### 문제:
+<img width="691" alt="스크린샷 2021-02-03 오후 10 35 09" src="https://user-images.githubusercontent.com/60768642/106754366-3c5c8a00-6670-11eb-95c5-2bdb06761bf2.png">
+
+
+#### my solution
+```
+def solution(n):
+    n = list(str(n))
+    res = []
+    while len(n) != 0:
+        res.append(int(n.pop()))
+    return res
+```
+
+#### 사고과정
+1. 가공하기 쉽게 str화 한다.
+2. 뒤에서부터 하나씩 꺼내서(pop) 새로운 list에 append한다. 
+
+#### 다른 사람의 풀이
+```
+def digit_reverse(n):
+    return list(map(int, reversed(str(n))))
+```
+내장함수로 간단하게 해결할 수 있는걸, 그게 생각이 안나면 돌고 돌아 풀게 된다.
+이번 문제가 그런 경우였다.
+하지만 초보때는 너무 내장함수에 의지하지 말고, 오히려 직접 그 기능을 구현해보는 것도
+좋은 방법이라고 어디서 들었다. 그런 말로 위안 삼으며 정신승리를 해본다.
+(그치만 다음에 다시 뭔가를 뒤집는 문제를 만나게 된다면  reverse와 reversed를 먼저 떠올려보자..)
