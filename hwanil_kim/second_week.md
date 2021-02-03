@@ -136,3 +136,95 @@ def sum_digit(number):
     return sum([int(i) for i in str(number)])
 ```
 내가 푼 코드보다 짧고 가독성도 좋아 보인다. sum 내장 함수를 활용한 것도 훌륭한 듯.
+
+
+
+### Q6. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12944
+
+#### 문제:
+<img width="575" alt="스크린샷 2021-02-03 오후 9 36 37" src="https://user-images.githubusercontent.com/70195733/106748086-103d0b00-6668-11eb-80eb-2d5e882c610d.png">
+
+
+#### my solution
+```
+def solution(arr):
+    return sum(arr) / len(arr)
+```
+
+#### 사고과정
+1. 평균은 전체 합 나누기 전체 개수다.
+2. 전체 합은 리스트에 sum을 씌워 구하고, 전체 개수는 리스트에 len을 씌워 구한다.
+
+
+
+### Q7. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12926
+
+#### 문제:
+<img width="700" alt="스크린샷 2021-02-03 오후 9 55 11" src="https://user-images.githubusercontent.com/70195733/106749977-92c6ca00-666a-11eb-9623-f5de74f01ac3.png">
+
+
+#### my solution
+```
+def solution(s, n):
+    answer =""
+    for i in s:
+        ascii_num = ord(i)
+        if ascii_num == 32:
+            answer += ""
+        elif ascii_num in range(65, 91):
+            ascii_num += n
+            if ascii_num > 90:
+                ascii_num = ascii_num - 90 + 64
+        elif ascii_num in range(97, 123):
+            ascii_num += n
+            if ascii_num > 122:
+                ascii_num = ascii_num - 122 + 96
+        answer += chr(ascii_num)
+    return answer
+```
+
+#### 사고과정
+1. 알파벳을 특정 숫자만큼 밀기 위해선 순서가 필요한데, 이를 위해 알파벳과 알파벳을 이어주는 ord, chr내장함수를 사용하자.
+2. 공백은 그대로 유지하면 되는 규칙을 기억하자.
+3. 밀린 알파벳이 z, 혹은 Z를 넘어가면 소문자는 a, 대문자는 A부터 다시 시작해야 하므로, 소문자와 대문자를 나눠서 처리한다.
+
+#### 다른 사람의 풀이
+- 대/소문자를 구별하기 위해,
+1) isupper(), islower()함수를 사용하거나
+2)  i >= 'A' and i <= 'Z' <br>
+이런 식으로 표현한 사람들의 코드가 인상적이었다.
+
+
+### Q8. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12930
+
+#### 문제:
+<img width="689" alt="스크린샷 2021-02-03 오후 10 13 51" src="https://user-images.githubusercontent.com/70195733/106751910-33b68480-666d-11eb-8b1f-87697ed4558b.png">
+
+
+#### my solution
+```
+def solution(s):
+    s = s.split(' ')
+    answer = []
+    for word in s:
+        new_word = ""
+        for i in range(len(word)):
+            if i % 2 == 0:
+                new_word += word[i].upper()
+            else:
+                new_word += word[i].lower()
+        answer.append(new_word)
+    return ' '.join(answer)
+```
+
+#### 사고과정
+1. 공백 기준으로 단어를 나눠야 하므로 split을 사용한다.
+2. for loop으로 각 단어에 하나씩 접근한다.
+3. 각 단어의 인덱스를 알기 위해 len()으로 다시 for을 돌며, 짝수일 땐 대문자화, 홀수일 떈 소문자화 한다.
+
