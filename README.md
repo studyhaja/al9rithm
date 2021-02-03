@@ -15,23 +15,23 @@
 ### 풀이 현황
 |날짜|작성자|문제|
 |:---:|:---:|:---:|
-|Jan_5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)
-|Jan_5|[@naon](https://github.com/nanaon)|[프로그래머스_완주하지_못한_선수](naon_jeong/programmers_42576.py)|
-|Jan-5|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 문자열 내림차순으로 배치하기](hwanil_kim/first_week.md)| 
-|FEB-5|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 나누어 떨어지는 숫자 배열](hwanil_kim/first_week.md)| 
-|FEB-5|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 같은 숫자는 싫어](hwanil_kim/first_week.md)| 
-|FEB-5|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 모의고사](hwanil_kim/first_week.md)| 
-|FEB-5|[@Einsicht1](https://github.com/Einsicht1)|[회문 만들기](hwanil_kim/first_week.md)| 
-|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 짝수와 홀수](hwanil_kim/second_week.md)| 
-|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 약수의 합](hwanil_kim/second_week.md)| 
-|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 직사각형 별찍기](hwanil_kim/second_week.md)| 
-|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 핸드폰번호 가리기](hwanil_kim/second_week.md)| 
-|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 자릿수 더하기](hwanil_kim/second_week.md)| 
-|FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 평균 구하기](hwanil_kim/second_week.md)| 
-|FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 시저 암호](hwanil_kim/second_week.md)| 
-|FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
-|FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 자연수 뒤집어 배열로 만들기](hwanil_kim/second_week.md)| 
-||||
+|JAN_5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)
+| |[@naon](https://github.com/nanaon)|[프로그래머스_완주하지_못한_선수](naon_jeong/programmers_42576.py)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 문자열 내림차순으로 배치하기](hwanil_kim/first_week.md)|
+| | |[프로그래머스 나누어 떨어지는 숫자 배열](hwanil_kim/first_week.md) |
+|FEB-1|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 같은 숫자는 싫어](hwanil_kim/first_week.md)| 
+| | |[프로그래머스 모의고사](hwanil_kim/first_week.md)| 
+| | |[회문 만들기](hwanil_kim/first_week.md)| 
+| | |[프로그래머스 짝수와 홀수](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 약수의 합](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 직사각형 별찍기](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 핸드폰번호 가리기](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 자릿수 더하기](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 평균 구하기](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 시저 암호](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 자연수 뒤집어 배열로 만들기](hwanil_kim/second_week.md)| 
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1092_배](hyunlang_ban/bj_1092_배.md)|
 ||||
 
 현랑: 1문제 <br>
