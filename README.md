@@ -32,7 +32,7 @@
 | | |[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
 | | |[프로그래머스 자연수 뒤집어 배열로 만들기](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1092_배](hyunlang_ban/bj_1092_배.md)|
-||[@naon]|(naon_jeong/programmers_12922.py)|
+||[@naon]|[프로그래머스 수박수박수박수박수박수?](naon_jeong/programmers_12922.py)|
 ||||
 
 현랑: 1문제 <br>
