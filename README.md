@@ -34,6 +34,8 @@
 | | |[프로그래머스 정수 제곱근 판별](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1092_배](hyunlang_ban/bj_1092_배.md)|
 ||[@naon](https://github.com/nanaon)|[프로그래머스 수박수박수박수박수박수?](naon_jeong/programmers_12922.py)|
+|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[행열의 덧셈](hwanil_kim/week3.md)| 
+
 ||||
 
 현랑: 1문제 <br>
