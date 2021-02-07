@@ -31,9 +31,10 @@
 | | |[프로그래머스 시저 암호](hwanil_kim/second_week.md)| 
 | | |[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
 | | |[프로그래머스 자연수 뒤집어 배열로 만들기](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 정수 제곱근 판별](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1092_배](hyunlang_ban/bj_1092_배.md)|
 ||||
 
 현랑: 1문제 <br>
 나온: 1문제 <br>
-환일: 14문제
+환일: 15문제
