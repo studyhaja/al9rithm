@@ -55,3 +55,27 @@ def solution(x, n):
 #### 사고과정
 1. 결과값은 x와 1~n을 차례대로 곱한 값들을 모은 list다.
 2. 이를 list comprehension으로 간단하게 구현 가능할 것 같다.
+
+
+### Q13. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
+#### 문제:
+<img width="712" alt="스크린샷 2021-02-08 오후 11 34 06" src="https://user-images.githubusercontent.com/70195733/107233710-35fe5180-6a66-11eb-8806-3255d4810710.png">
+
+
+
+
+
+#### my solution
+```
+def solution(x):
+    if x % sum([int(i) for i in str(x)]) == 0:
+        return True
+    return False
+```
+
+#### 사고과정
+1. 자릿수 합은 숫자를 str으로 만들어 for loop을 돌며 하나씩 꺼내고, 꺼낸 값을 int로 만들어 더하면 된다.
+2. 나눈 나머지가 0이면 나누어 떨어지는 것이고, 그렇지 않다면 아니다.
+
