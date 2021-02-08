@@ -34,3 +34,24 @@ def sumMatrix(A,B):
 - 넘파이 들어만 봤고 사용하는건 처음봤다.
 - 넘파이를 사용하니 문제가 간단히 해결되네?
 - 넘파이 자체를 각잡고 공부할 것 까진 없고(아직까진), 이런식으로나마 조금씩 접해가보자.
+
+
+
+### Q12. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12954
+#### 문제:
+<img width="705" alt="스크린샷 2021-02-08 오후 11 15 57" src="https://user-images.githubusercontent.com/70195733/107231427-a5267680-6a63-11eb-8fc1-411135c11540.png">
+
+
+
+
+#### my solution
+```
+def solution(x, n):
+    return [x * i for i in range(1, n+1)]
+```
+
+#### 사고과정
+1. 결과값은 x와 1~n을 차례대로 곱한 값들을 모은 list다.
+2. 이를 list comprehension으로 간단하게 구현 가능할 것 같다.
