@@ -31,6 +31,15 @@
 | | |[프로그래머스 시저 암호](hwanil_kim/second_week.md)| 
 | | |[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
 | | |[프로그래머스 자연수 뒤집어 배열로 만들기](hwanil_kim/second_week.md)| 
+| | |[프로그래머스 정수 제곱근 판별](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1092_배](hyunlang_ban/bj_1092_배.md)|
-|FEB-2|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스 수박수박수박수박수박수?](naon_jeong/programmers_12922.py)|
+|FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[행열의 덧셈](hwanil_kim/week3.md)| 
+| | |[x만큼 간격이 있는 n개의 숫자](hwanil_kim/second_week.md)| 
+| | |[하샤드 수](hwanil_kim/second_week.md)| 
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|
+
+
+나온: 2문제 <br>
+환일: 15문제
 

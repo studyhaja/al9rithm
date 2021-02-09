@@ -261,3 +261,42 @@ def digit_reverse(n):
 하지만 초보때는 너무 내장함수에 의지하지 말고, 오히려 직접 그 기능을 구현해보는 것도
 좋은 방법이라고 어디서 들었다. 그런 말로 위안 삼으며 정신승리를 해본다.
 (그치만 다음에 다시 뭔가를 뒤집는 문제를 만나게 된다면  reverse와 reversed를 먼저 떠올려보자..)
+
+
+
+### Q10. 
+
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12934
+
+#### 문제:
+<img width="700" alt="스크린샷 2021-02-04 오후 9 43 51" src="https://user-images.githubusercontent.com/60768642/106894302-1d263100-6732-11eb-837e-f5c4f22877ce.png">
+
+
+#### my solution
+```
+import math
+
+def solution(n):
+    sqrt_n = math.sqrt(n)
+    if sqrt_n == int(sqrt_n):
+        return (sqrt_n + 1) ** 2
+    return -1
+```
+
+#### 사고과정
+1. sqrt로 제곱근을 구할 수 있다.
+2. 정수 제곱근은 2.0과 같은 숫자가 나오고, 그렇지 않으면 2.12312412같은 식으로 나온다.
+3. 2를 근거로, sqrt를 씌운 것 == int(sqrt)의 결과가 같다는 정수 제곱근으로 판별한다.
+
+#### 다른 사람의 풀이
+```
+def nextSqure(n):
+    sqrt = n ** (1/2)
+
+    if sqrt % 1 == 0:
+        return (sqrt + 1) ** 2
+    return 'no'
+```
+- `n ** (1/2)`으로 n의 제곱근을 구한 점이 기똥차다.
+- `n % 1 ==0` 으로 정수여부를 판단해낸 점이 기똥차다.
+- 한수 배웠다.
