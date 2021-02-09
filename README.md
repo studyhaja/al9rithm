@@ -15,7 +15,7 @@
 ### 풀이 현황
 |날짜|작성자|문제|
 |:---:|:---:|:---:|
-|JAN_5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)
+|JAN-5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)
 | |[@naon](https://github.com/nanaon)|[프로그래머스_완주하지_못한_선수](naon_jeong/programmers_42576.py)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 문자열 내림차순으로 배치하기](hwanil_kim/first_week.md)|
 | | |[프로그래머스 나누어 떨어지는 숫자 배열](hwanil_kim/first_week.md) |
@@ -32,8 +32,5 @@
 | | |[프로그래머스 이상한 문자 만들기](hwanil_kim/second_week.md)| 
 | | |[프로그래머스 자연수 뒤집어 배열로 만들기](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1092_배](hyunlang_ban/bj_1092_배.md)|
-||||
+|FEB-2|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|
 
-현랑: 1문제 <br>
-나온: 1문제 <br>
-환일: 14문제
