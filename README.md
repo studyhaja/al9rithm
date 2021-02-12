@@ -37,6 +37,10 @@
 |FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[행열의 덧셈](hwanil_kim/week3.md)| 
 | | |[x만큼 간격이 있는 n개의 숫자](hwanil_kim/second_week.md)| 
 | | |[하샤드 수](hwanil_kim/second_week.md)| 
+| | |[제일 작은 수 제거하기](hwanil_kim/second_week.md)| 
+| | |[제일 작은 수 제거하기](hwanil_kim/second_week.md)| 
+| | |[콜라츠 추측](hwanil_kim/second_week.md)| 
+| | |[두 개 뽑아서 더하기](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|
 
 
