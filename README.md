@@ -41,9 +41,5 @@
 | | |[제일 작은 수 제거하기](hwanil_kim/second_week.md)| 
 | | |[콜라츠 추측](hwanil_kim/second_week.md)| 
 | | |[두 개 뽑아서 더하기](hwanil_kim/second_week.md)| 
+| | |[크레인 인형뽑기 게임](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|
-
-
-나온: 2문제 <br>
-환일: 15문제
-

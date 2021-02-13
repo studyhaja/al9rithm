@@ -173,10 +173,67 @@ def solution(numbers):
  return sorted(list(set(answer)))
  
 ### Q18. 
-#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/64061
 #### 문제:
+<img width="687" alt="스크린샷 2021-02-13 오후 5 57 09" src="https://user-images.githubusercontent.com/60768642/107846167-fb5d3600-6e24-11eb-8b85-0615ae03c145.png">
+<img width="684" alt="스크린샷 2021-02-13 오후 5 57 16" src="https://user-images.githubusercontent.com/60768642/107846171-fc8e6300-6e24-11eb-8c22-8298d89dffea.png">
+<img width="685" alt="스크린샷 2021-02-13 오후 5 57 22" src="https://user-images.githubusercontent.com/60768642/107846172-fdbf9000-6e24-11eb-9e2b-3a6ac3429c7c.png">
+<img width="701" alt="스크린샷 2021-02-13 오후 5 57 27" src="https://user-images.githubusercontent.com/60768642/107846173-fe582680-6e24-11eb-8d84-7a9850282a95.png">
+
 #### my solution
+```
+def solution(board, moves):
+    stack = []
+    answer = 0
+    for i in moves:
+        for b in board:
+            if b[i-1] != 0:
+                moved_num = b[i-1]
+                b[i-1] = 0
+                if len(stack) == 0:
+                    stack.append(moved_num)
+                else:
+                    if stack[-1] == moved_num:
+                        stack.pop()
+                        answer += 2
+                    else:
+                        stack.append(moved_num)
+                break
+    return answer
+```
 #### 사고과정
+1. 인형들을 옮겨 닮을 빈 리스트를 하나 만든다.
+2. 0으로 초기값을 설정해놓은 변수 하나를 두고, 같은 인형을 뽑을 때 마다 +2씩 해준다.
+3. moves를 포문으로 돌면서, 그 안에서 board로 이중 포문을 돌며 로직을 수행한다.
+4. 해당 인덱스에 0이 아닌 값이 존재할 경우, 그 값을 새로운 변수에 저장하고, 기존 인덱스 값을 0으로 만든다.
+5. 옮겨 담을 리스트가 비었는지, 값이 있다면 마지막 값과 지금 뽑은 값이 같은지 확인하고, 같다면 pop으로 지워주고 +2를 해준다.
+6. 같지 않다면 단순히 append해준다.
+7. 더이상 포문을 돌면 안되므로 break한다.<br>
+빡셌다.........
+
+#### 다른 사람의 풀이
+```
+def solution(board, moves):
+    stacklist = []
+    answer = 0
+
+    for i in moves:
+        for j in range(len(board)):
+            if board[j][i-1] != 0:
+                stacklist.append(board[j][i-1])
+                board[j][i-1] = 0
+
+                if len(stacklist) > 1:
+                    if stacklist[-1] == stacklist[-2]:
+                        stacklist.pop(-1)
+                        stacklist.pop(-1)
+                        answer += 2     
+                break
+
+    return answer
+```
+내 코드는 if else로 지저분한데, 이 사람 코드는 깔끔하다. <br>
+댓글 중에 처음부터 리스트에 0값을 하나 넣어놓으면 len > 1인지를 검사 안해도 된다고 한 점이 인상깊었다.
 
 ### Q19. 
 #### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
