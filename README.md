@@ -43,3 +43,4 @@
 | | |[두 개 뽑아서 더하기](hwanil_kim/second_week.md)| 
 | | |[크레인 인형뽑기 게임](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스_가운데 글자 가져오기](naon_jeong/programmers_12903.py)|
