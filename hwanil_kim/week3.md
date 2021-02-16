@@ -235,20 +235,3 @@ def solution(board, moves):
 내 코드는 if else로 지저분한데, 이 사람 코드는 깔끔하다. <br>
 댓글 중에 처음부터 리스트에 0값을 하나 넣어놓으면 len > 1인지를 검사 안해도 된다고 한 점이 인상깊었다.
 
-### Q19. 
-#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
-#### 문제:
-#### my solution
-#### 사고과정
-
-### Q20. 
-#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
-#### 문제:
-#### my solution
-#### 사고과정
-
-### Q21. 
-#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
-#### 문제:
-#### my solution
-#### 사고과정
