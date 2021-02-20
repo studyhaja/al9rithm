@@ -3,7 +3,7 @@
 https://programmers.co.kr/learn/courses/30/lessons/12916
 '''
 
-# 최초 풀
+# 최초 풀이
 def solution(s):
     s = s.replace('P', 'p')
     s = s.replace('Y', 'y')
@@ -15,7 +15,7 @@ def solution(s):
         return True
     return False
 
-# return을 더 간결하
+# return을 더 간결하게
 def solution(s):
     s = s.replace('P', 'p')
     s = s.replace('Y', 'y')
@@ -31,6 +31,6 @@ def solution(s):
 
 '''
 고민점)
-내장함수를 사용하지 않고 푸는 것이 알고리즘 테스트 취지에 더 맞는 것 아닌가? 
+내장함수를 사용하지 않고 푸는 것이 알고리즘 테스트 취지에 더 맞는 것인가? 
 있는 내장함수를 최대한 사용하는 것이 현명한 것인가?
 '''
