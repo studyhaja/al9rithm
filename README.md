@@ -37,9 +37,13 @@
 |FEB-2|[@Einsicht1](https://github.com/Einsicht1)|[행열의 덧셈](hwanil_kim/week3.md)| 
 | | |[x만큼 간격이 있는 n개의 숫자](hwanil_kim/second_week.md)| 
 | | |[하샤드 수](hwanil_kim/second_week.md)| 
+| | |[제일 작은 수 제거하기](hwanil_kim/second_week.md)| 
+| | |[제일 작은 수 제거하기](hwanil_kim/second_week.md)| 
+| | |[콜라츠 추측](hwanil_kim/second_week.md)| 
+| | |[두 개 뽑아서 더하기](hwanil_kim/second_week.md)| 
+| | |[크레인 인형뽑기 게임](hwanil_kim/second_week.md)| 
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|
-
-
-나온: 2문제 <br>
-환일: 15문제
-
+| |[@naon](https://github.com/nanaon)|[프로그래머스_가운데 글자 가져오기](naon_jeong/programmers_12903.py)|
+|FEB-3|[@Einsicht1](https://github.com/Einsicht1)|[체육복](hwanil_kim/week3.md)| 
+| |[@naon](https://github.com/nanaon)|[프로그래머스_문자열 내 p와 y의 개수](naon_jeong/programmers_12916.py)|
+| | | |
