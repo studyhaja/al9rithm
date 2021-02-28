@@ -48,3 +48,4 @@
 | |[@naon](https://github.com/nanaon)|[프로그래머스_문자열 내 p와 y의 개수](naon_jeong/programmers_12916.py)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1461_도서관](hyunlang_ban/bj_1461_도서관.md)|
 |FEB-4|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1781_컵라면](hyunlang_ban/bj_1781_컵라면.md)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스_문자열 다루기 기본](naon_jeong/programmers_12918.py)|
