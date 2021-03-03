@@ -49,4 +49,4 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1461_도서관](hyunlang_ban/bj_1461_도서관.md)|
 |FEB-4|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1781_컵라면](hyunlang_ban/bj_1781_컵라면.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_문자열 다루기 기본](naon_jeong/programmers_12918.py)|
-|FEB-5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-QUEUE](hyunlang_ban/bj_9663_N-Queen.md)|
+|FEB-5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|
