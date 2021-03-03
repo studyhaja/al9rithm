@@ -13,7 +13,7 @@ N이 주어졌을 때, 퀸을 놓는 방법의 수를 구하는 프로그램을 
 체스를 하나도 모름 + 그래프 공포증 ㅜㅜ
 
 ## Solution
-```
+```python
 def check(x):
     for i in range(x):
         if row[x] == row[i]:
