@@ -52,3 +52,4 @@
 | |[@naon](https://github.com/nanaon)|[프로그래머스_문자열 다루기 기본](naon_jeong/programmers_12918.py)|
 |MAR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 level1](soheon_lee/0307/0307_algoritm.py)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스_서울에서 김서방 찾기](naon_jeong/programmers_12919.py)|
