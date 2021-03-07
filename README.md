@@ -50,5 +50,5 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1461_도서관](hyunlang_ban/bj_1461_도서관.md)|
 |FEB-4|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1781_컵라면](hyunlang_ban/bj_1781_컵라면.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_문자열 다루기 기본](naon_jeong/programmers_12918.py)|
-|FEB-5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|
-|MAR-1|[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 level1](soheon_lee/0307/0307_algoritm.py)|
+|MAR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|
+| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 level1](soheon_lee/0307/0307_algoritm.py)|
