@@ -54,3 +54,4 @@
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 level1](soheon_lee/0307/0307_algoritm.py)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_서울에서 김서방 찾기](naon_jeong/programmers_12919.py)|
 |MAR-2|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1987_알파벳](hyunlang_ban/bj_1987_알파벳.md)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스_문자열을 정수로 바꾸기](naon_jeong/programmers_12925.py)|
