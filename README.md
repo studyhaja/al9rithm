@@ -56,3 +56,4 @@
 |MAR-2|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1987_알파벳](hyunlang_ban/bj_1987_알파벳.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_문자열을 정수로 바꾸기](naon_jeong/programmers_12925.py)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[소수찾기](hwanil_kim/week5.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[문자열 내 마음대로 정렬하기](hwanil_kim/week5.md)|

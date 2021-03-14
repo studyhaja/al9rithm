@@ -1,17 +1,9 @@
-def solution(n):
-    answer = 0
-    for i in range(2, n + 1):
-        if is_prime(i):
-            answer += 1
-    return answer
+strings = ["sunn", "beddd", "carrrr"]
+n = 1
 
+def solution(strings, n):
+    res = sorted(strings, key=lambda x: x[1])
+    return res
 
-def is_prime(num):
-    if num == 2:
-        return True
-    for j in range(2, num):
-        if num % j == 0:
-            return False
-    return True
-
-solution(10)
+a = solution(strings, n)
+print(a)
