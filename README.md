@@ -57,3 +57,4 @@
 | |[@naon](https://github.com/nanaon)|[프로그래머스_문자열을 정수로 바꾸기](naon_jeong/programmers_12925.py)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[소수찾기](hwanil_kim/week5.md)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[문자열 내 마음대로 정렬하기](hwanil_kim/week5.md)|
+|MAR-3|[@naon](https://github.com/nanaon)|[프로그래머스_제일 작은 수 제거하기](naon_jeong/programmers_12935.py)|
