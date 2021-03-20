@@ -130,11 +130,30 @@ Client Side Encryption: client측에서 데이터를 encrypt해서 서버에게 
   - SG for EC2 and ENI resources in VPC
 ![스크린샷 2021-02-27 오후 9 30 28](https://user-images.githubusercontent.com/70195733/109387167-13fc3e80-7943-11eb-981c-b2449ab98499.png)
 
-### 22.
-### 23.
-### 24.
-### 25.
-### 26.
-### 27.
-### 28.
-#
+### 28. CloudFormation StackSets
+- cloudformation 템플릿은은 JSON or YAML 형태다. 
+- stacksets는 Organization에 속한 유저들이 똑같은(내가 설정) cloudformation template을 사용하도록 하는 기능.
+- 예: 같은 ec2 타입, 특정 IAM ROLE을 사용하도록 설정.
+- cloudformation stack(stacksets아님)은 템플렛을 통해 aws 리소스 런칭할 때 single unit으로 묶인 집합이다.
+
+### 29. RAM(aws Resouce Access Manager)
+- 쉽고 안전하게 aws 리소스를 다른 account 혹은 같은 organization에 속한 account와 share하는 기능. 
+### 30. site-to-site VPN(= IPsec VPN connection)
+- 이걸 연결할 땐 aws side엔 Virtual Private Gateway를, on-premise쪽엔 Customer Gateway를 만들어야 한다.
+### 31. Kinesis Data Firehose
+- target으로 Redshift(data warehouse), s3, Elasticsearch 가능
+- target으로 EMR 불가능.
+### 32. AMI copy할 때  Encryption
+![스크린샷 2021-03-14 오후 10 34 54](https://user-images.githubusercontent.com/70195733/111070531-83faef00-8515-11eb-92fb-a00744ff5b52.png)
+- 다른 계정과 AMI를 공유하려면 주인이 읽기 권한을 줘야한다. <br>이때 읽기 권한이란, <br>이미지가 저장된 EBS snapshot(for and EBS-backend AMI) 혹은 s3(for an instance store-backed AMI)를 의미한다.
+
+### 33. AWS Step Functions
+- aws lambda, Glue 를 orchestrate 하는 기능.
+
+### 34. SWF(Amazon Simple Workflow Service)
+- 개발자가 build, run, scale background jobs 하는 것을 돕는 기능.
+### 35. Scheduled Reserved Instances
+- 특정 시간대에만 ec2를 사용하고 싶을 때 쓰면 좋은 option.
+
+### 36. NLB target with instance ID
+- NLB의 taget을 instance ID로 해놨다면, 트래픽은 primary network interface에 명시된 primary private IP를 사용해 ec2에 도달한다.

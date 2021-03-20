@@ -47,13 +47,26 @@ def solution(strings, n):
 
 
 ### Q24. 
-#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
+#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3
 #### 문제:
+![스크린샷 2021-03-21 오전 12 00 19](https://user-images.githubusercontent.com/70195733/111874400-71caf600-89d8-11eb-8b45-d176cd5ea62d.png)
+
 #### my solution
 ```
+def solution(n, m):
+    greatest_common_factor = 1
+    least_common_multiple = n * m 
+    for i in range(1, min(n,m) + 1):
+        if n % i == 0 and m % i == 0:
+            greatest_common_factor = i
+    least_common_multiple = least_common_multiple / greatest_common_factor
+    return [greatest_common_factor, least_common_multiple]
 ```
 #### 사고과정
-
+1. 두 수가 있다 했을 때 최대공약수는 두 수의 약수중 가장 큰 것이다.
+-> 1~ 두 수중 작은 수 까지의 숫자로 두 숫자를 나눠서 0이 되는 것 중 가장 큰 값을 찾으면 된다.
+2. 최소공배수는 두 수의 배수 중 가장 작은 값으로, 두 수를 곱한 뒤 최대공약수로 나누면 된다.
+3. 유클리드 호제법으로 푸는게 제일 효율적인데 이건 나중에 해보기로 하고, 우선 위 논리에 의해서 풀었다.
 ### Q25. 
 #### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
 #### 문제:
