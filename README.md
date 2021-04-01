@@ -63,5 +63,6 @@
 |MAR-4|[@naon](https://github.com/nanaon)|[프로그래머스_직사각형 별찍기](naon_jeong/programmers_12969.py)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_5719_거의최단경로](hyunlang_ban/bj_5719_거의최단경.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_크레인_인형뽑기_게임](soheon_lee/0328_kakao_cranes.py)|
+|APR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의_교감](hyunlang_ban/bj_1774_우주신과의교감.md)|
 
 ### 벌금 현황🚨
