@@ -85,7 +85,7 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1759_암호만들기](hyunlang_ban/bj_1759_암호만들기.md)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[최대공약수와 최소공배수](hwanil_kim/week5.md)|
 |MAR-4|[@naon](https://github.com/nanaon)|[프로그래머스_직사각형 별찍기](naon_jeong/programmers_12969.py)|
-| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_5719_거의최단경로](hyunlang_ban/bj_5719_거의최단경.md)|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_5719_거의최단경로](hyunlang_ban/bj_5719_거의최단경로.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_크레인_인형뽑기_게임](soheon_lee/0328_kakao_cranes.py)|
 
 </details>
@@ -98,8 +98,9 @@
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
 |APR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의_교감](hyunlang_ban/bj_1774_우주신과의교감.md)|
-||[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주](soheon_lee/0404_marathon_collecionts.py)|`collections` 모듈을 배움.
-|APR-1|[@Einsicht1](https://github.com/HyunlangBan)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
+| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주](soheon_lee/0404_marathon_collecionts.py)|`collections` 모듈을 배움.
+| |[@Einsicht1](https://github.com/HyunlangBan)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스_두 정수 사이의 합](naon_jeong/programmers_12912.py)|
 
 </details>
 
