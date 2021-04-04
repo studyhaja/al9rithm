@@ -64,5 +64,6 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_5719_거의최단경로](hyunlang_ban/bj_5719_거의최단경.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_크레인_인형뽑기_게임](soheon_lee/0328_kakao_cranes.py)|
 |APR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의_교감](hyunlang_ban/bj_1774_우주신과의교감.md)|
+|APR-1|[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주_`collections`를 배움](soheon_lee/0404_marathon_collecionts.py)|
 
 ### 벌금 현황🚨
