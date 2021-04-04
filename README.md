@@ -14,12 +14,26 @@
 - [@soheon-lee](https://github.com/soheon-lee)
 
 ### 풀이 현황
+
+<details>
+<summary>JAN</summary>
+
 |날짜|작성자|문제|
 |:---:|:---:|:---:|
 |JAN-5|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)
 | |[@naon](https://github.com/nanaon)|[프로그래머스_완주하지_못한_선수](naon_jeong/programmers_42576.py)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 문자열 내림차순으로 배치하기](hwanil_kim/first_week.md)|
 | | |[프로그래머스 나누어 떨어지는 숫자 배열](hwanil_kim/first_week.md) |
+
+</details>
+
+---
+
+<details>
+<summary>FEB</summary>
+
+|날짜|작성자|문제|
+|:---:|:---:|:---:|
 |FEB-1|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 같은 숫자는 싫어](hwanil_kim/first_week.md)| 
 | | |[프로그래머스 모의고사](hwanil_kim/first_week.md)| 
 | | |[회문 만들기](hwanil_kim/first_week.md)| 
@@ -50,6 +64,16 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1461_도서관](hyunlang_ban/bj_1461_도서관.md)|
 |FEB-4|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1781_컵라면](hyunlang_ban/bj_1781_컵라면.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_문자열 다루기 기본](naon_jeong/programmers_12918.py)|
+
+</details>
+
+---
+
+<details>
+<summary>Mar</summary>
+
+|날짜|작성자|문제|
+|:---:|:---:|:---:|
 |MAR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 level1](soheon_lee/0307/0307_algoritm.py)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_서울에서 김서방 찾기](naon_jeong/programmers_12919.py)|
@@ -63,7 +87,23 @@
 |MAR-4|[@naon](https://github.com/nanaon)|[프로그래머스_직사각형 별찍기](naon_jeong/programmers_12969.py)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_5719_거의최단경로](hyunlang_ban/bj_5719_거의최단경.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_크레인_인형뽑기_게임](soheon_lee/0328_kakao_cranes.py)|
+
+</details>
+
+---
+
+<details>
+<summary>APR</summary>
+
+|날짜|작성자|문제|메모|
+|:---:|:---:|:---:|:---:|
 |APR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의_교감](hyunlang_ban/bj_1774_우주신과의교감.md)|
-|APR-1|[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주_`collections`를 배움](soheon_lee/0404_marathon_collecionts.py)|
+||[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주](soheon_lee/0404_marathon_collecionts.py)|`collections` 모듈을 배움.
+
+</details>
+
 
 ### 벌금 현황🚨
+<2021/04/04 기준>
+
+소헌 : 10,000
