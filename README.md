@@ -99,6 +99,7 @@
 |:---:|:---:|:---:|:---:|
 |APR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의_교감](hyunlang_ban/bj_1774_우주신과의교감.md)|
 ||[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주](soheon_lee/0404_marathon_collecionts.py)|`collections` 모듈을 배움.
+|APR-1|[@Einsicht1](https://github.com/HyunlangBan)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
 
 </details>
 
@@ -106,4 +107,5 @@
 ### 벌금 현황🚨
 <2021/04/04 기준>
 
-소헌 : 10,000
+소헌 : 10,000 <br>
+환일: 얼마 일까
