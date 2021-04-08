@@ -1,7 +1,8 @@
-import requests
-url = "https://i.pinimg.com/474x/4e/b4/0e/4eb40ee3b3c281ab9d9e05385cf9de3f.jpg"
-result = requests.get(url)
+def sum_digits(n):
+    if n < 10:
+        return n
+    else:
+        return int(str(n)[-1]) + sum_digits(int(str(n)[:-1]))
 
-with open("new_photo.jpg", "wb") as f:
-    f.write(result.content)
-    f.close()
+
+print(sum_digits(112))

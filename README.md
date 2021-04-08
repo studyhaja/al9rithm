@@ -102,6 +102,7 @@
 | |[@Einsicht1](https://github.com/HyunlangBan)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_두 정수 사이의 합](naon_jeong/programmers_12912.py)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[재귀 삼각함수](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/HyunlangBan)|[자릿수의 합 재귀(코드잇 문제)](hwanil_kim/week7.md)|
 
 </details>
 
