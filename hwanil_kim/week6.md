@@ -43,10 +43,3 @@ def binary_search(element, some_list):
 - 범위를 좁히는 방법은 중간값을 기준으로 끝 인덱스를 -1해주거나 시작 인덱스를 +1 해주는 방법을 사용한다.
 - while문의 조건으로는, 시작 인덱스와 끝 인덱스가 교차하는 지점으로 잡아준다.
 
-### Q26. 
-#### 문제링크: https://programmers.co.kr/learn/courses/30/lessons/12947
-#### 문제:
-#### my solution
-```
-```
-#### 사고과정
