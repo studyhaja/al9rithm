@@ -37,3 +37,21 @@ def sum_digits(n):
 #### 사고과정
 - base case: n의 길이가 1이면, 혹은 n이 10보다 작으면 return n
 - recursive case: n의 길이가 2보다 크면, 맨 마지막 수 + sum_digits(n-1)을 한다.
+
+### Q28. 
+#### 문제링크: 
+#### 문제:
+![](https://images.velog.io/images/kpl5672/post/3e1042f2-c661-4b09-923e-85da719a2dd9/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-08%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.41.58.png)
+#### my solution
+```
+def flip(some_list):
+    if len(some_list) == 0 or len(some_list) == 1:
+        return some_list
+    else:
+        return some_list[-1:] + flip(some_list[:-1])
+```
+#### 사고과정
+-base case: some_list의 len이 0 혹은 1이면 some_list를 리턴한다.
+- revursive case: [-1:]와 some_list([:-1])을 더해준다.
+
+시간 복잡도:  O(n^2)
