@@ -105,6 +105,8 @@
 | |[@Einsicht1](https://github.com/HyunlangBan)|[자릿수의 합 재귀(코드잇 문제)](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[리스트 뒤집기 재귀(코드잇 문제)](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[하노이의 탑](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/HyunlangBan)|[가까운 매장 찾기](hwanil_kim/week7.md)|
+
 
 </details>
 

@@ -87,3 +87,59 @@ hanoi(3, 1, 3)
 1) 제일 아래 원반을 제외한 모든 원반을 other_peg로 옮긴다.
 2) 제일 아래 원반을 목적 기둥으로 옮긴다.
 3) 1)에서 옮겨놨던 원반들을 목적 기둥으로 옮긴다.
+
+### Q 30.
+### 문제: 가까운 매장 찾기
+![](https://images.velog.io/images/kpl5672/post/1bd6c248-07f0-4f1f-adaa-c5157c6d07e4/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-11%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%208.06.11.png)
+![](https://images.velog.io/images/kpl5672/post/52635ddc-8d3f-4814-ba1e-513c07e175a6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-11%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%208.06.15.png)
+
+#### my solution
+```
+# 제곱근 사용을 위한 sqrt 함수
+from math import sqrt
+
+# 두 매장의 직선 거리를 계산해 주는 함수
+def distance(store1, store2):
+    return sqrt((store1[0] - store2[0]) ** 2 + (store1[1] - store2[1]) ** 2)
+
+# 가장 가까운 두 매장을 찾아주는 함수
+def closest_pair(coordinates):
+    temporary = {}
+    for index in range(len(coordinates)):
+        for index2 in range(index+1, len(coordinates)):
+            res = distance(coordinates[index], coordinates[index2])
+            temporary[res] = [coordinates[index], coordinates[index2]]
+    shortest = min(temporary.keys())
+    return temporary[shortest]
+            
+```
+
+#### 사고과정 및 반성
+1. 인덱스를 이용해 이중 포문을 돌면서 값을 서로 비교하면 된다.
+2. 나는 딕셔너리를 만들고 모든 값을 저장한 반, 정답풀이는 초기값만 지정해놓고 특정 조건에 맞으면 초기값만 오버라이드 해주는 방법을 썼다. 이게 더 좋아보인다. 하나 배웠다.
+3. 나는 첫 포문을 len(coordinates)로 해줬는데 사실 len(coordinates) -1 로 했어야 한다. 이렇게 안해도 정답은 맞긴 맞았지만 엄격한 채점 시스템에 오답이었을 것이다.
+
+#### 다른 사람의 풀이
+```
+# 제곱근 사용을 위한 sqrt 함수 불러오기
+from math import sqrt
+
+# 두 매장의 직선 거리를 계산해 주는 함수
+def distance(store1, store2):
+    return sqrt((store1[0] - store2[0]) ** 2 + (store1[1] - store2[1]) ** 2)
+
+# 가장 가까운 두 매장을 찾아주는 함수
+def closest_pair(coordinates):
+    # 현재까지 본 가장 가까운 두 매장
+    pair = [coordinates[0], coordinates[1]]
+  
+    for i in range(len(coordinates) - 1):
+        for j in range(i + 1, len(coordinates)):
+            store1, store2 = coordinates[i], coordinates[j]
+
+            # 더 가까운 두 매장을 찾으면 pair 업데이트
+            if distance(pair[0], pair[1]) > distance(store1, store2):
+                pair = [store1, store2]
+
+    return pair
+```
