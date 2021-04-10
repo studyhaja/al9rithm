@@ -55,3 +55,35 @@ def flip(some_list):
 - revursive case: [-1:]와 some_list([:-1])을 더해준다.
 
 시간 복잡도:  O(n^2)
+
+
+### Q29.
+### 문제: 하노이의 탑(재귀로 풀)
+
+#### my solution
+```
+def move_disk(disk_num, start_peg, end_peg):
+    print("%d번 원판을 %d번 기둥에서 %d번 기둥으로 이동" % (disk_num, start_peg, end_peg))
+
+
+def hanoi(num_disks, start_peg, end_peg):
+    if num_disks == 0:
+        return
+    else:
+        other_peg = 6 - start_peg - end_peg
+        hanoi(num_disks - 1, start_peg, other_peg)
+        move_disk(num_disks, start_peg, end_peg)
+        hanoi(num_disks - 1, other_peg, end_peg)
+
+
+# 테스트 코드 (포함하여 제출해주세요)
+hanoi(3, 1, 3)
+```
+
+#### 사고과정
+1. base case: num_disks 가 0 이면 할 게 없으니 바로 return한다.
+2. 탑을 지정된 위치로 옮기려면 제일 아래 있는 원반이 목적 기둥으로 가야하는데 그러게 위해선 제일 아래 원반을 제외한 원반은 다른 기둥(other_peg)으로 가야한다.
+순서를 정리해보자.
+1) 제일 아래 원반을 제외한 모든 원반을 other_peg로 옮긴다.
+2) 제일 아래 원반을 목적 기둥으로 옮긴다.
+3) 1)에서 옮겨놨던 원반들을 목적 기둥으로 옮긴다.
