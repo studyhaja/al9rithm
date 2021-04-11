@@ -143,3 +143,29 @@ def closest_pair(coordinates):
 
     return pair
 ```
+
+
+### Q 31.
+#### 문제: 강남역 폭우
+![](https://images.velog.io/images/kpl5672/post/dcd75d00-6d74-4ba1-ac69-73f143f4faa0/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-11%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.14.18.png)
+#### my solution
+```
+def trapping_rain(buildings):
+    answer = 0
+    for index in range(len(buildings)):
+        if index == 0 or index == len(buildings) - 1:
+            continue
+        else:
+            left_max = max(buildings[:index])
+            right_max = max(buildings[index+1:])
+            capacity = min(left_max, right_max) - buildings[index]
+            if capacity > 0:
+                answer += capacity
+    return answer
+```
+#### 사고과정
+- 일단 가장자리(맨 왼쪽, 맨 오른쪽)인덱스에는 물을 받을 수 없다.
+- 그외 인덱스들의 경우, 왼쪽 중 가장 큰것과 오른쪽 중 가장 큰것 중 작은 것보다 작다면 물을 받을 수 있다.
+- 위 연산을 해서 값이 +일경우만 물을 받을 수 있고, 아니라면 패스한다.
+
+
