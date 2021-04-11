@@ -101,7 +101,7 @@
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주](soheon_lee/0404_marathon_collecionts.py)|`collections` 모듈을 배움.
 | |[@Einsicht1](https://github.com/HyunlangBan)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_두 정수 사이의 합](naon_jeong/programmers_12912.py)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[재귀 삼각함수](hwanil_kim/week7.md)|
+|APR-2 |[@Einsicht1](https://github.com/HyunlangBan)|[재귀 삼각함수](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[자릿수의 합 재귀(코드잇 문제)](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[리스트 뒤집기 재귀(코드잇 문제)](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[하노이의 탑](hwanil_kim/week7.md)|
