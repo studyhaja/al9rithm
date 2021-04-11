@@ -99,23 +99,24 @@
 |:---:|:---:|:---:|:---:|
 |APR-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의_교감](hyunlang_ban/bj_1774_우주신과의교감.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주](soheon_lee/0404_marathon_collecionts.py)|`collections` 모듈을 배움.
-| |[@Einsicht1](https://github.com/HyunlangBan)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_두 정수 사이의 합](naon_jeong/programmers_12912.py)|
-|APR-2 |[@Einsicht1](https://github.com/HyunlangBan)|[재귀 삼각함수](hwanil_kim/week7.md)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[자릿수의 합 재귀(코드잇 문제)](hwanil_kim/week7.md)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[리스트 뒤집기 재귀(코드잇 문제)](hwanil_kim/week7.md)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[하노이의 탑](hwanil_kim/week7.md)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[가까운 매장 찾기](hwanil_kim/week7.md)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[강남역 폭우](hwanil_kim/week7.md)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[1 ~ n까지의 합(divide and conquer 방식)](hwanil_kim/week7.md)|
-| |[@Einsicht1](https://github.com/HyunlangBan)|[divide and conquer로 merge sort 구현하기)](hwanil_kim/week7.md)|
-
+|APR-2 |[@Einsicht1](https://github.com/Einsicht1)|[재귀 삼각함수](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[자릿수의 합 재귀(코드잇 문제)](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[리스트 뒤집기 재귀(코드잇 문제)](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[하노이의 탑](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[가까운 매장 찾기](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[강남역 폭우](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[1 ~ n까지의 합(divide and conquer 방식)](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/Einsicht1)|[divide and conquer로 merge sort 구현하기)](hwanil_kim/week7.md)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스_K번째수](naon_jeong/programmers_42748.py)|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1697_숨바꼭질](hyunlang_ban/bj_1697_숨바꼭질.md)|
 
 </details>
 
-
-### 벌금 현황🚨
-<2021/04/04 기준>
-
-소헌 : 10,000 <br>
-환일: 얼마 일까
+---
+### 벌금 현황🚨 
+|기준일|벌금자|벌금|메모|
+|:---:|:---:|:---:|:---:|
+|2021/04/04|소헌|10,000||
+| |환일|10,000|결혼식 전 주 벌금 면제|
