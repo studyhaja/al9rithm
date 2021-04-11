@@ -169,3 +169,24 @@ def trapping_rain(buildings):
 - 위 연산을 해서 값이 +일경우만 물을 받을 수 있고, 아니라면 패스한다.
 
 
+### Q 32.
+#### 문제: 1 ~ n까지의 합을 divide and conquer 방식으로 풀기
+#### my solution
+```
+def consecutive_sum(start, end):
+    if start == end:
+        return start
+    else:
+        middle = (start + end) // 2
+        return consecutive_sum(start, middle) + consecutive_sum(middle+1, end)
+    # 코드를 작성하세요
+
+```
+#### 사고과정
+- 1~10까지를 더한다 치자.
+- 1~5, 6~10 으로 나눈다.
+- 1~3, 4~5, 6~8, 9~10 으로 나눈다
+- 1~2, 3, 4, 5, 6~7, 8, 9, 10 으로 나눈다.
+- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 으로 나눈다.
+- 값을 더한다.
+- 이런 과정을 구현하기 위해 재귀를 사용한다.
