@@ -107,6 +107,8 @@
 | |[@Einsicht1](https://github.com/HyunlangBan)|[하노이의 탑](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[가까운 매장 찾기](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/HyunlangBan)|[강남역 폭우](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/HyunlangBan)|[1 ~ n까지의 합(divide and conquer 방식)](hwanil_kim/week7.md)|
+| |[@Einsicht1](https://github.com/HyunlangBan)|[divide and conquer로 merge sort 구현하기)](hwanil_kim/week7.md)|
 
 
 </details>
