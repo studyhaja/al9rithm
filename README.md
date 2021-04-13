@@ -111,7 +111,7 @@
 | |[@Einsicht1](https://github.com/Einsicht1)|[divide and conquer로 merge sort 구현하기)](hwanil_kim/week7.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_K번째수](naon_jeong/programmers_42748.py)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1697_숨바꼭질](hyunlang_ban/bj_1697_숨바꼭질.md)|
-|APR-3 |[@Einsicht1](https://github.com/Einsicht1)|[최소 동전으로 거슬러 주기](hwanil_kim/week8.md)|
+|APR-3 |[@Einsicht1](https://github.com/Einsicht1)|[최소 동전으로 거슬러 주기(greedy algorithm)](hwanil_kim/week8.md)|
 
 </details>
 
