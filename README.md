@@ -101,7 +101,7 @@
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_마라톤완주](soheon_lee/0404_marathon_collecionts.py)|`collections` 모듈을 배움.
 | |[@Einsicht1](https://github.com/Einsicht1)|[간단한 이진탐색 구현](hwanil_kim/week6.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_두 정수 사이의 합](naon_jeong/programmers_12912.py)|
-|APR-2 |[@Einsicht1](https://github.com/Einsicht1)|[재귀 삼각함수](hwanil_kim/week7.md)|
+|APR-2|[@Einsicht1](https://github.com/Einsicht1)|[재귀 삼각함수](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[자릿수의 합 재귀(코드잇 문제)](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[리스트 뒤집기 재귀(코드잇 문제)](hwanil_kim/week7.md)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[하노이의 탑](hwanil_kim/week7.md)|
@@ -111,7 +111,8 @@
 | |[@Einsicht1](https://github.com/Einsicht1)|[divide and conquer로 merge sort 구현하기)](hwanil_kim/week7.md)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_K번째수](naon_jeong/programmers_42748.py)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1697_숨바꼭질](hyunlang_ban/bj_1697_숨바꼭질.md)|
-|APR-3 |[@Einsicht1](https://github.com/Einsicht1)|[최소 동전으로 거슬러 주기(greedy algorithm)](hwanil_kim/week8.md)|
+|APR-3|[@Einsicht1](https://github.com/Einsicht1)|[최소 동전으로 거슬러 주기(greedy algorithm)](hwanil_kim/week8.md)|
+| |[@naon](https://github.com/nanaon)|[프로그래머스_K번째수](naon_jeong/programmers_42748.py)|
 
 </details>
 
