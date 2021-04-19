@@ -115,7 +115,8 @@
 | |[@naon](https://github.com/nanaon)|[프로그래머스_타겟 넘버](naon_jeong/programmers_43165.py)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_모의고사](naon_jeong/programmers_42840.py)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2606_바이러스](hyunlang_ban/bj_2606_바이러스.md)|
-| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 다트게임](soheon_lee/0418_dartgame.py)
+| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 다트게임](soheon_lee/0418_dartgame.py)|
+|APR-4|[@naon](https://github.com/nanaon)|[백준_프린터 큐](naon_jeong/boj_1966.py)|
 
 </details>
 
