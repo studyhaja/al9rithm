@@ -117,7 +117,8 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2606_바이러스](hyunlang_ban/bj_2606_바이러스.md)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 다트게임](soheon_lee/0418_dartgame.py)|
 |APR-4|[@naon](https://github.com/nanaon)|[백준_프린터 큐](naon_jeong/boj_1966.py)|
-|  |[@naon](https://github.com/nanaon)|[백준_키로거](naon_jeong/boj_5397.py)|
+| |[@naon](https://github.com/nanaon)|[백준_키로거](naon_jeong/boj_5397.py)|
+| |[@naon](https://github.com/nanaon)|[백준_수 찾기](naon_jeong/boj_1920.py)|
 
 </details>
 
