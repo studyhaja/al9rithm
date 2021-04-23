@@ -1,5 +1,5 @@
 '''
-백준 온라인 저지 - 키로거
+백준 온라인 저지 - 수 찾기
 
 https://www.acmicpc.net/problem/1920
 
