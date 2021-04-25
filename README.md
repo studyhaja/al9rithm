@@ -120,6 +120,7 @@
 | |[@naon](https://github.com/nanaon)|[백준_키로거](naon_jeong/boj_5397.py)|
 | |[@naon](https://github.com/nanaon)|[백준_수 찾기](naon_jeong/boj_1920.py)|
 | |[@naon](https://github.com/nanaon)|[백준_수 정렬하기2](naon_jeong/boj_2751.py)|
+| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_2016년요일](soheon_lee/0425_2016.py)|
 
 </details>
 
