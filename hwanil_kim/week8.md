@@ -51,9 +51,47 @@ def min_coin_count(value, coin_list):
 
 ### Q 35.
 #### 문제:
+![스크린샷 2021-04-18 오후 2 58 05](https://user-images.githubusercontent.com/70195733/115135836-868dbe80-a056-11eb-9c06-3374401ed7a7.png)
 #### my solution
-#### 사고과정
+```
+def min_fee(pages_to_print):
+    length = len(pages_to_print)
+    res = 0
+    for i in sorted(pages_to_print):
+        res += i * length
+        length -= 1
+    return res
+        
+    # 코드를 작성하세요. 
 
+
+# 테스트
+print(min_fee([6, 11, 4, 1]))
+print(min_fee([3, 2, 1]))
+print(min_fee([3, 1, 4, 3, 2]))
+print(min_fee([8, 4, 2, 3, 9, 23, 6, 8]))
+
+```
+#### 사고과정
+- 오름차순으로 정렬한다.
+- 맨 앞 숫자 * n, 그 다음 숫자 * n-1 ... 식으로 계산해준다.
+
+#### 풀이 코드
+- 나는 length를 정의해놓고 하나씩 늘려간반면, 여기선 len() - i 방식으로 좀 더 효율적인 코드를 작성했다.
+```
+def min_fee(pages_to_print):
+    # 인풋으로 받은 리스트를 정렬시켜 준다
+    sorted_list = sorted(pages_to_print)
+
+    # 총 벌금을 담을 변수
+    total_fee = 0
+
+    # 정렬된 리스트에서 총 벌금 계산
+    for i in range(len(sorted_list)):
+        total_fee += sorted_list[i] * (len(sorted_list) - i)
+
+    return total_fee
+```
 ### Q 36.
 #### 문제:
 #### my solution
