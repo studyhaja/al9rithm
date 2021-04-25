@@ -92,17 +92,3 @@ def min_fee(pages_to_print):
 
     return total_fee
 ```
-### Q 36.
-#### 문제:
-#### my solution
-#### 사고과정
-
-### Q 37.
-#### 문제:
-#### my solution
-#### 사고과정
-
-### Q 38.
-#### 문제:
-#### my solution
-#### 사고과정
