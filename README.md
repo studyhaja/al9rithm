@@ -115,6 +115,13 @@
 | |[@naon](https://github.com/nanaon)|[프로그래머스_타겟 넘버](naon_jeong/programmers_43165.py)|
 | |[@naon](https://github.com/nanaon)|[프로그래머스_모의고사](naon_jeong/programmers_42840.py)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[최소 벌금](hwanil_kim/week8.md)|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2606_바이러스](hyunlang_ban/bj_2606_바이러스.md)|
+| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 다트게임](soheon_lee/0418_dartgame.py)|
+|APR-4|[@naon](https://github.com/nanaon)|[백준_프린터 큐](naon_jeong/boj_1966.py)|
+| |[@naon](https://github.com/nanaon)|[백준_키로거](naon_jeong/boj_5397.py)|
+| |[@naon](https://github.com/nanaon)|[백준_수 찾기](naon_jeong/boj_1920.py)|
+| |[@naon](https://github.com/nanaon)|[백준_수 정렬하기2](naon_jeong/boj_2751.py)|
+| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_2016년요일](soheon_lee/0425_2016.py)|
 
 </details>
 
@@ -122,5 +129,5 @@
 ### 벌금 현황🚨 
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
-|2021/04/04|소헌|10,000||
+|2021/04/04|소헌|15,000||
 | |환일|10,000|결혼식 전 주 벌금 면제|
