@@ -124,6 +124,8 @@
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_2016년요일](soheon_lee/0425_2016.py)|
 | |[@Einsicht1](https://github.com/Einsicht1)|[신규 아이디 추천](hwanil_kim/week9.md)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1012_유기농배추](hyunlang_ban/bj_1012_유기농배추.md)|
+|APR-5|[@Einsicht1](https:/github.com/Einsicht1)|[2016년(프로그래머스)](hwanil_kim/week10.md)|
+|APR-5|[@Einsicht1](https:/github.com/Einsicht1)|[예산(프로그래머스)](hwanil_kim/week10.md)|
 
 </details>
 
