@@ -121,12 +121,28 @@ def is_prime(num):
 - 내장된 combinations라는 게 있는지 처음 알았다.
  3중 포문 돌릴 필요 없이 combinations쓰면 엄청 간단해지겠다 싶어서 적용해서 풀어봤다.
 ### Q 40. 
-#### 문제:
+#### 문제: 내적
+<img width="703" alt="스크린샷 2021-04-27 오후 9 27 09" src="https://user-images.githubusercontent.com/70195733/116241126-8781c700-a79f-11eb-8cd6-fd25b1cc92ea.png">
+
 #### my solution
+1번 풀이
 ```
+def solution(a, b):
+    answer = 0
+    for i in range(len(a)):
+        answer += a[i] * b[i]
+    return answer
+```
+
+2번 풀이
+```
+def solution(a, b):
+    return sum([a[i] * b[i] for i in range(len(a))])
 ```
 #### 사고과정
-#### 다른 사람의 풀이
+1. 쉬워서 굳이 사고과정은 안적어도 될 것 같다.
+2. 두 개의 풀이 중 뭐가 더 좋은걸까? 2번이 짧고 간지나긴 한다만, 가독성 측면에서는 1번이 낫다고 보인다.
+3. 실제 시험을 본다면 어떤 식으로 푸는게 좋을라나.
 
 ### Q 41. 
 #### 문제:
