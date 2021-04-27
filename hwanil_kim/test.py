@@ -1,6 +1,16 @@
-a = [1,2,3,4]
-b = [5,6,7,8]
-c = [9,10,11,12]
+def solution(absolutes, signs):
+    answer = 0
+    for i in zip(absolutes, signs):
+        if i[1] == "true":
+            answer += i[0]
+        else:
+            answer -= i[0]
+    return answer
 
-for i, z, k in zip(a,b, c):
-    print(i, z, k)
+
+a = [4,7,12]
+b = ["true","false","true"]
+
+c = solution(a, b)
+print(c)
+

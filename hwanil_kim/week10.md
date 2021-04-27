@@ -145,11 +145,25 @@ def solution(a, b):
 3. 실제 시험을 본다면 어떤 식으로 푸는게 좋을라나.
 
 ### Q 41. 
-#### 문제:
+#### 문제: 음양더하기
+<img width="690" alt="스크린샷 2021-04-27 오후 9 48 09" src="https://user-images.githubusercontent.com/70195733/116243793-463ee680-a7a2-11eb-9209-34365f7fd22d.png">
+
 #### my solution
 ```
+def solution(absolutes, signs):
+    answer = 0
+    for i in zip(absolutes, signs):
+        if i[1]:
+            answer += i[0]
+        else:
+            answer -= i[0]
+    return answer
 ```
 #### 사고과정
+1. 요것도 쉬워서 사고과정은 pass
+2. zip을 잘 쓰면 쉽게 끝난다.
+3. 프로그래머스에서 푼 사람 횟수가 적으면 마냥 어려운 문제인 줄 알고 지레 겁부터 먹었었는데,<br>
+꼭 그렇지만도 안더라. 비교적 최근에 올라온 문제는 난이도와 상관없이 당연히 푼 사람 횟수가 적다.
 #### 다른 사람의 풀이
 
 ### Q 42. 
