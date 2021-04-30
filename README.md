@@ -129,6 +129,7 @@
 | |[@Einsicht1](https:/github.com/Einsicht1)|[내적(프로그래머스)](hwanil_kim/week10.md)|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[음양 더하기(프로그래머스)](hwanil_kim/week10.md)|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[폰켓몬(프로그래머스)](hwanil_kim/week10.md)|
+| |[@naon](https://github.com/nanaon)|[백준_공유기 설치](naon_jeong/boj_2110.py)|
 
 </details>
 
