@@ -221,12 +221,67 @@ def solution(nums):
 #### 다른 사람의 풀이
 
 ### Q 43. 
-#### 문제:
+#### 문제: 실패율(프로그래머스)
+#### 문제 링크: https://programmers.co.kr/learn/courses/30/lessons/42889
 #### my solution
+1차 시도(시간 초과로 실패)
 ```
+def solution(N, stages):
+    answer = {}
+    # answer = []
+    for i in range(1, N+1):
+        challengers = 0
+        failed = 0
+        for j in stages:
+            if j > i:
+                challengers += 1
+            elif j == i:
+                challengers += 1
+                failed += 1
+        answer[i] = failed / challengers
+        #answer.append((i, failed / challengers))
+    answer = sorted(answer, reverse=True, key=lambda x: answer[x])
+    return answer
+```
+2챠 시도(시간 초과 실패)
+```
+def solution(N, stages):
+    answer = {}
+    total_user = len(stages)
+    for i in range(1, N + 1):
+        challengers = total_user
+        failed = stages.count(i)
+        answer[i] = failed / challengers
+        total_user -= failed
+    answer = sorted(answer, reverse=True, key=lambda x: answer[x])
+    return answer
+```
+
+
+3차 시도(성공)
+```
+def solution(N, stages):
+    answer = {}
+    total_user = len(stages)
+    for i in range(1, N + 1):
+        if total_user > 0:
+            challengers = total_user
+            failed = stages.count(i)
+            answer[i] = failed / challengers
+            total_user -= failed
+        else:
+            answer[i] = 0
+            
+
+
+    answer = sorted(answer, reverse=True, key=lambda x: answer[x])
+    return answer
 ```
 #### 사고과정
-#### 다른 사람의 풀이
+1. stage별로 파악해야 하므로 stage를 기준으로 for문을 돌린다.
+2. 매 단계마다 전체 지원자 수를 줄여나간다.
+3. 공식에 맞게 실패율을 구한다.
+4. sorted안에 있는 key 람다를 통해 결과를 출력한다.
 
 ### Q 44. 
 #### 문제:
