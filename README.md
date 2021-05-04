@@ -138,6 +138,17 @@
 </details>
 
 ---
+
+<details>
+<summary>May</summary>
+
+|날짜|작성자|문제|
+|:---:|:---:|:---:|
+|MAY-1|[@naon](https://github.com/nanaon)|[백준_트로피 진열](naon_jeong/boj_1668.py)|
+
+</details>
+
+---
 ### 벌금 현황🚨 
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
