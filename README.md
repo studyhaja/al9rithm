@@ -145,6 +145,7 @@
 |날짜|작성자|문제|
 |:---:|:---:|:---:|
 |MAY-1|[@naon](https://github.com/nanaon)|[백준_트로피 진열](naon_jeong/boj_1668.py)|
+| |[@Einsicht1](https:/github.com/Einsicht1)|[트리 순회(in-order)](hwanil_kim/week11.md)|
 
 </details>
 
