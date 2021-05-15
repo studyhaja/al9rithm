@@ -146,7 +146,7 @@
 |:---:|:---:|:---:|
 |MAY-1|[@naon](https://github.com/nanaon)|[백준_트로피 진열](naon_jeong/boj_1668.py)|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[트리 순회(in-order)](hwanil_kim/week11.md)|
-
+|MAY-2|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_10282_해킹](hyunlang_ban/bj_10282_해킹.md)|
 </details>
 
 ---
@@ -154,4 +154,5 @@
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
 |2021/04/04|소헌|15,000||
-| |환일|10,000|결혼식 전 주 벌금 면제|
+|2021/04/04|환일|10,000|결혼식 전 주 벌금 면제|
+|2021/05/15|현랑|5,000||
