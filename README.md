@@ -148,12 +148,13 @@
 | |[@Einsicht1](https:/github.com/Einsicht1)|[트리 순회(in-order)](hwanil_kim/week11.md)|
 |MAY-2|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_10282_해킹](hyunlang_ban/bj_10282_해킹.md)|
 | |[@naon](https://github.com/nanaon)|[백준_나이순 정렬](naon_jeong/boj_10814.py)|
+| |[@soheon-lee](https://github.com/soheon-lee)|[BigOnotationExample](soheon_lee/0522_prefixAverageSummating.js)|
 </details>
 
 ---
 ### 벌금 현황🚨 
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
-|2021/04/04|소헌|15,000||
+|2021/05/22|소헌|20,000||
 |2021/04/04|환일|10,000|결혼식 전 주 벌금 면제|
 |2021/05/15|현랑|5,000||
