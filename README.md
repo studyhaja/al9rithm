@@ -151,6 +151,7 @@
 |MAY-3|[@soheon-lee](https://github.com/soheon-lee)|[BigOnotationExample](soheon_lee/0522_prefixAverageSummating.js)|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)|복습|
 |MAY-4|[@naon](https://github.com/nanaon)|[백준_피보나치 수](naon_jeong/boj_2747.py)|
+| |[@soheon-lee](https://github.com/soheon-lee)|[HashTable](soheon_lee/0525_hashTable_sumOfUniqueEntries.js)|자료구조|
 </details>
 
 ---
