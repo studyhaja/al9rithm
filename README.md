@@ -152,6 +152,7 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2012_등수매기기](hyunlang_ban/bj_2012_등수매기기.md)|복습|
 |MAY-4|[@naon](https://github.com/nanaon)|[백준_피보나치 수](naon_jeong/boj_2747.py)|
 | |[@soheon-lee](https://github.com/soheon-lee)|[HashTable](soheon_lee/0525_hashTable_sumOfUniqueEntries.js)|자료구조|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1092_배](hyunlang_ban/bj_1092_배.md)|복습|
 </details>
 
 ---
