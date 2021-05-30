@@ -1,5 +1,5 @@
 '''
-백준 온라인 저지 - 피보나
+백준 온라인 저지 - 피보나치 수
 
 https://www.acmicpc.net/problem/2747
 
