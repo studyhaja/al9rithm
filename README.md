@@ -156,6 +156,16 @@
 </details>
 
 ---
+
+<details>
+<summary>June</summar>
+
+|날짜|작성자|문제|메모|
+|:---:|:---:|:---:|:---:|
+|JUN-1|[@soheon-lee](https://github.com/soheon-lee)|[Stack 구현](soheon_lee/0601_stack.js)|자료구조|
+</details>
+
+---
 ### 벌금 현황🚨 
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
