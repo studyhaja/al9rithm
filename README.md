@@ -158,11 +158,12 @@
 ---
 
 <details>
-<summary>June</summar>
+<summary>June</summary>
 
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
 |JUN-1|[@soheon-lee](https://github.com/soheon-lee)|[Stack 구현](soheon_lee/0601_stack.js)|자료구조|
+| |[@Einsicht1](https:/github.com/Einsicht1)|[백준-제로(10773)](hwanil_kim/week12.md)|스택|
 </details>
 
 ---
@@ -170,5 +171,5 @@
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
 |2021/05/22|소헌|20,000||
-|2021/04/04|환일|10,000|결혼식 전 주 벌금 면제|
+|2021/04/04|환일|25,000||
 |2021/05/15|현랑|5,000||

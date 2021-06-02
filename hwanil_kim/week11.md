@@ -80,5 +80,3 @@ def traverse_inorder(node):
 ```
 -비루한 나의 코드......
 
-
-### Q 45. 
