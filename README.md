@@ -164,6 +164,7 @@
 |:---:|:---:|:---:|:---:|
 |JUN-1|[@soheon-lee](https://github.com/soheon-lee)|[Stack 구현](soheon_lee/0601_stack.js)|자료구조|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준-제로(10773)](hwanil_kim/week12.md)|스택|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|복습|
 </details>
 
 ---
