@@ -166,6 +166,7 @@
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준-제로(10773)](hwanil_kim/week12.md)|스택|
 | |[@naon](https://github.com/nanaon)|[백준_좌표 정렬하기](naon_jeong/boj_11650.py)|정렬|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|복습|
+|JUN-2|[@naon](https://github.com/nanaon)|[백준_OX퀴즈](naon_jeong/boj_8958.py)|문자열|
 </details>
 
 ---
