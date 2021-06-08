@@ -162,11 +162,12 @@
 
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
-|JUN-1|[@soheon-lee](https://github.com/soheon-lee)|[Stack 구현](soheon_lee/0601_stack.js)|자료구조|
+|JUN-1|[@soheon-lee](https://github.com/soheon-lee)|[Stack 구현](soheon_lee/0601_stack.js)|자료구조-스택|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준-제로(10773)](hwanil_kim/week12.md)|스택|
 | |[@naon](https://github.com/nanaon)|[백준_좌표 정렬하기](naon_jeong/boj_11650.py)|정렬|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2212_센서](hyunlang_ban/bj_2212_센서.md)|복습|
 |JUN-2|[@naon](https://github.com/nanaon)|[백준_OX퀴즈](naon_jeong/boj_8958.py)|문자열|
+| |[@soheon-lee](https://github.com/soheon-lee)|[자료구조 graph](soheon_lee/0608_graph.js)|자료구조 - 그래프|
 </details>
 
 ---
