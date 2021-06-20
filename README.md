@@ -170,6 +170,7 @@
 | |[@soheon-lee](https://github.com/soheon-lee)|[자료구조 graph](soheon_lee/0608_graph.js)|자료구조 - 그래프|
 | |[@soheon-lee](https://github.com/soheon-lee)|[알고리즘 recursion_bfs](soheon_lee/0612_bfs.js)|알고리즘 - 재귀|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1461_도서관](hyunlang_ban/bj_1461_도서관.md)|복습|
+|JUN-3|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1781_컵라면](hyunlang_ban/bj_1781_컵라면.md)|복습|
 </details>
 
 ---
