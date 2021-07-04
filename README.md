@@ -179,6 +179,17 @@
 </details>
 
 ---
+
+<details>
+<summary>July</summary>
+
+|날짜|작성자|문제|메모|
+|:---:|:---:|:---:|:---:|
+|JUL-1|[@naon](https://github.com/nanaon)|[백준_수 단어의 개수](naon_jeong/boj_1152.py)|문자열|
+
+</details>
+
+---
 ### 벌금 현황🚨 
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
