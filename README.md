@@ -70,7 +70,7 @@
 ---
 
 <details>
-<summary>Mar</summary>
+<summary>MAR</summary>
 
 |날짜|작성자|문제|
 |:---:|:---:|:---:|
@@ -140,7 +140,7 @@
 ---
 
 <details>
-<summary>May</summary>
+<summary>MAY</summary>
 
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
@@ -158,7 +158,7 @@
 ---
 
 <details>
-<summary>June</summary>
+<summary>JUN</summary>
 
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
@@ -181,12 +181,13 @@
 ---
 
 <details>
-<summary>July</summary>
+<summary>JUL</summary>
 
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
-|JUL-1|[@naon](https://github.com/nanaon)|[백준_수 단어의 개수](naon_jeong/boj_1152.py)|문자열|
+|JUL-1|[@naon](https://github.com/nanaon)|[백준 단어의 개수](naon_jeong/boj_1152.py)|문자열|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_5719_거의최단경로](hyunlang_ban/bj_5719_거의최단경로.md)|복습|
+| |[@naon](https://github.com/nanaon)|[백준_손익분기점](naon_jeong/boj_1712.py)|기본 수학|
 
 </details>
 
