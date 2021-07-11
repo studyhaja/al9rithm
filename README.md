@@ -188,6 +188,7 @@
 |JUL-1|[@naon](https://github.com/nanaon)|[백준 단어의 개수](naon_jeong/boj_1152.py)|문자열|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_5719_거의최단경로](hyunlang_ban/bj_5719_거의최단경로.md)|복습|
 |JUL-2|[@naon](https://github.com/nanaon)|[백준_손익분기점](naon_jeong/boj_1712.py)|기본 수학|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1759_암호만들기](hyunlang_ban/bj_1759_암호만들기.md)|복습|
 
 </details>
 
