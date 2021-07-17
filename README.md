@@ -190,6 +190,7 @@
 |JUL-2|[@naon](https://github.com/nanaon)|[백준_손익분기점](naon_jeong/boj_1712.py)|기본 수학|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1759_암호만들기](hyunlang_ban/bj_1759_암호만들기.md)|복습|
 | |[@soheon-lee](https://github.com/soheon-lee)|[로또로또](soheon_lee/0711_lotto.js)|프로그래머스_levle1|
+|JUL-3|[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스-전화번호 목록)](hwanil_kim/week14.md)|해쉬|
 
 </details>
 
@@ -198,5 +199,5 @@
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
 |2021/05/22|소헌|25,000||
-|2021/06/27|환일|35,000||
+|2021/06/27|환일|45,000||
 |2021/05/15|현랑|5,000||
