@@ -1,28 +1,25 @@
-def solution(nums):
-    answer = 0
-    for i1 in range(0, len(nums) - 2):
-        for i2 in range(1, len(nums) - 1):
-            for i3 in range(2, len(nums)):
-                three_sum = nums[i1] + nums[i2] + nums[i3]
-                if is_prime(three_sum):
-                    answer += 1
+def solution(genres, plays):
+    play_total = dict()
+    play_info = dict()
+    answer = []
+    for i in range(len(genres)):
+        genre = genres[i]
+        play = plays[i]
+        play_total[genre] = play_total.get(genre, 0) + play
+        play_info[genre] = play_info.get(genre, []) + [(play, i)]
+
+    total_sort = sorted(play_total.items(), key=lambda x: x[1], reverse=True)
+    for genre, total in total_sort:
+        play_info[genre] = sorted(play_info[genre], key=lambda x: (-x[0], x[1]))
+        for play, index in play_info[genre][:2]:
+            answer.append(index)
     return answer
 
-    return answer
 
 
-import math
 
+genres = ["classic", "pop", "classic", "classic", "pop"]
+plays = [500, 600, 150, 800, 2500]
 
-def is_prime(num):
-    res = 0
-    for i in range(1, int(math.sqrt(num)) + 1):
-        if num % i == 0:
-            res += 1
-    if res > 1:
-        return False
-    return True
+solution(genres, plays)
 
-
-a = solution([1,2,7,6,4])
-print(a)
