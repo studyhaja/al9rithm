@@ -194,6 +194,7 @@
 | |[@naon](https://github.com/nanaon)|[백준_벌집](naon_jeong/boj_2292.py)|기본 수학|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의교감](hyunlang_ban/bj_1774_우주신과의교감.md)|복습|
 |JUL-4|[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스-위장)](hwanil_kim/week15.md)|해쉬|
+| |[@naon](https://github.com/nanaon)|[백준_분수찾기](naon_jeong/boj_1193.py)|기본 수학|
 
 </details>
 
