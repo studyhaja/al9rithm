@@ -196,6 +196,7 @@
 |JUL-4|[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스-위장)](hwanil_kim/week15.md)|해쉬|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스-베스트앨범)](hwanil_kim/week15.md)|해쉬|
 | |[@naon](https://github.com/nanaon)|[백준_분수찾기](naon_jeong/boj_1193.py)|기본 수학|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|복습|
 
 </details>
 
