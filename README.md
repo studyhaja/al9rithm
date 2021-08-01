@@ -195,6 +195,10 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1774_우주신과의교감](hyunlang_ban/bj_1774_우주신과의교감.md)|복습|
 |JUL-4|[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스-위장)](hwanil_kim/week15.md)|해쉬|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스-베스트앨범)](hwanil_kim/week15.md)|해쉬|
+| |[@naon](https://github.com/nanaon)|[백준_분수찾기](naon_jeong/boj_1193.py)|기본 수학|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|복습|
+|JUL-5|[@naon](https://github.com/nanaon)|[백준_달팽이는 올라가고 싶다](naon_jeong/boj_2869.py)|기본 수학|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1987_알파벳](hyunlang_ban/bj_1987_알파벳.md)|복습|
 
 </details>
 
@@ -204,4 +208,3 @@
 |:---:|:---:|:---:|:---:|
 |2021/05/22|소헌|25,000||
 |2021/06/27|환일|45,000||
-|2021/05/15|현랑|5,000||
