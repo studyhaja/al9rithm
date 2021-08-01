@@ -199,6 +199,7 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_9663_N-Queen](hyunlang_ban/bj_9663_N-Queen.md)|복습|
 |JUL-5|[@naon](https://github.com/nanaon)|[백준_달팽이는 올라가고 싶다](naon_jeong/boj_2869.py)|기본 수학|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1987_알파벳](hyunlang_ban/bj_1987_알파벳.md)|복습|
+| |[@Einsicht1](https:/github.com/Einsicht1)|[leetcode-136. Single Number](hwanil_kim/week16.md)||
 
 </details>
 
