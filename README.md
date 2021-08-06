@@ -201,6 +201,8 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1987_알파벳](hyunlang_ban/bj_1987_알파벳.md)|복습|
 | |[@Einsicht1](https:/github.com/Einsicht1)|[leetcode-136. Single Number](hwanil_kim/week16.md)||
 | |[@soheon_lee](https:/github.com/soheon-lee)|[Programmers Keypad](soheon_lee/0801_keypad.js)||
+|JUL-6|[@Einsicht1](https:/github.com/Einsicht1)|[leetcode-20. valid parentheses](hwanil_kim/week17.md)||
+
 
 </details>
 
