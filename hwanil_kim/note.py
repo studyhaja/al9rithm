@@ -1,31 +1,24 @@
 class Solution:
-    def isValid(self, s: str) -> bool:
-        stack = []
-        pair = {')': '(',
-                ']': '[',
-                '}': '{'
-                }
-        for chr in s:
-            if chr in pair.values():
-                stack.append(chr)
-            else:
-                if not stack:
-                    return False
-                left = stack.pop()
-                if not pair[chr] == left:
-                    return False
-        if stack:
-            return False
-        return True
+    def longestCommonPrefix(self, strs) -> str:
+        res = ""
+        for i in range(len(strs[0])):
+            flag = True
+            for j in range(len(strs)):
+                if not strs[0][:i+1] == strs[j][:i+1]:
+                    flag = False
+            if flag:
+                res = strs[0][:i+1]
+        return res
+
+
+strs = ["flower","flow","flight"]
+# strs = ["dog","racecar","car"]
+
+a = Solution()
+a.longestCommonPrefix(strs)
 
 
 
 
 
 
-
-
-s = "()"
-# s = "()[]{}"
-# s = "(]"
-# s = "{[]}"
