@@ -1,3 +1,8 @@
+## Q.53 스택수열
+
+#### 문제. https://www.acmicpc.net/problem/1874
+#### 나의 풀이
+```
 n = int(input())
 cnt = 1
 stack = []
@@ -17,5 +22,4 @@ for i in range(n):
         exit(0)
 print('\n'.join(res))
 
-
-
+```
