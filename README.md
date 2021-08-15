@@ -217,6 +217,7 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_10989_수정렬하기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_10989_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.md)|복습|
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_11650_좌표정렬하기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_11650_%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)|복습|
 |AUG-2|[@Einsicht1](https:/github.com/Einsicht1)|[백준_1874_스택수열](hwanil_kim/week18.md)||
+|AUG-2|[@soheon-lee](https:/github.com/soheon-lee)|[백준_1874_스택수열](soheon_lee/0815_budget.js)||
 
 </details>
 
@@ -224,5 +225,4 @@
 ### 벌금 현황🚨 
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
-|2021/05/22|소헌|25,000||
 |2021/06/27|환일|45,000||
