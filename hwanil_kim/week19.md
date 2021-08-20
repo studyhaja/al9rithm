@@ -1,3 +1,8 @@
+## Q.54
+
+#### 문제. https://www.acmicpc.net/problem/1966 (프린터 큐)
+#### 나의 풀이
+```
 number_of_case = int(input())
 
 answer = []
@@ -20,3 +25,5 @@ for _ in range(number_of_case):
         else:
             queue.append(pop_data)
 print(*answer, sep='\n')
+
+```

@@ -220,6 +220,7 @@
 | |[@soheon-lee](https:/github.com/soheon-lee)|[백준_1874_스택수열](soheon_lee/0815_budget.js)||
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1874_스택수열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.md)|복습|
 | |[@naon](https://github.com/nanaon)|[백준_부녀회장이 될테야](naon_jeong/boj_2775.py)|기본 수학|
+|AUG-3|[@Einsicht1](https:/github.com/Einsicht1)|[백준_1966 프린터 큐](hwanil_kim/week19.md)||
 
 </details>
 
