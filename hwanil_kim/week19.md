@@ -27,3 +27,33 @@ for _ in range(number_of_case):
 print(*answer, sep='\n')
 
 ```
+
+## Q.55
+#### 문제:https://www.acmicpc.net/problem/5397 (키로거)
+#### 나의 풀이
+- 결국 강의 보고 풀었다.
+- 핵심은 커서동작을 코드에 반영하는 것이다.
+- 이를 위해 스택 두개를 쓰고 그 가운데에 커서를 두는 개념을 사용했다.
+``` 
+number_of_case = int(input())
+for i in range(number_of_case):
+    l_stack = []
+    r_stack = []
+    case = input()
+    for chr in case:
+        if chr == '<':
+            if l_stack:
+                poped_data = l_stack.pop()
+                r_stack.append(poped_data)
+        elif chr == '>':
+            if r_stack:
+                poped_data = r_stack.pop()
+                l_stack.append(poped_data)
+        elif chr == '-':
+            if l_stack:
+                l_stack.pop()
+        else:
+            l_stack.append(chr)
+    l_stack.extend(reversed(r_stack))
+    print(''.join(l_stack))
+```
