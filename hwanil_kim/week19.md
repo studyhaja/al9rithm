@@ -57,3 +57,35 @@ for i in range(number_of_case):
     l_stack.extend(reversed(r_stack))
     print(''.join(l_stack))
 ```
+
+
+## Q.56
+#### 문제: https://www.acmicpc.net/problem/10930 (SHA-256)
+#### 나의 풀이
+```
+import hashlib
+
+string = input()
+encoded=string.encode()
+result = hashlib.sha256(encoded)
+
+print(result.hexdigest())
+
+```
+
+
+## Q.57
+#### 문제: https://www.acmicpc.net/problem/1920 (수 찾기)
+#### 나의 풀이
+``` 
+first_input = int(input())
+num1 = set(list(map(int, input().split(' '))))
+
+second_input = int(input())
+num2 = list(map(int, input().split(' ')))
+for i in num2:
+    if i in num1:
+        print(1)
+    else:
+        print(0)
+```
