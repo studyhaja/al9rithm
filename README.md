@@ -225,6 +225,7 @@
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준_10930 SHA-256](hwanil_kim/week19.md)||
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준_1920 수 찾기](hwanil_kim/week19.md)||
 | |[@naon](https://github.com/nanaon)|[HackerRank_Write a function](naon_jeong/hackerrank_write-a-function.py)||
+| |[@soheon-lee](https://github.com/soheon-lee)|[체육복 빌려주기](soheon_lee/0822_PE.js)|와 다른 사람풀이 소름 ...|
 
 </details>
 
