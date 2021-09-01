@@ -224,6 +224,11 @@
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준_5397 키로거](hwanil_kim/week19.md)||
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준_10930 SHA-256](hwanil_kim/week19.md)||
 | |[@Einsicht1](https:/github.com/Einsicht1)|[백준_1920 수 찾기](hwanil_kim/week19.md)||
+| |[@naon](https://github.com/nanaon)|[HackerRank_Write a function](naon_jeong/hackerrank_write-a-function.py)||
+| |[@soheon-lee](https://github.com/soheon-lee)|[체육복 빌려주기](soheon_lee/0822_PE.js)|와 다른 사람풀이 소름 ...|
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2747_재귀함수](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md)|복습|
+|AUG-4|[@naon](https://github.com/nanaon)|[HackerRank_Nested Lists](naon_jeong/hackerrank_nested-lists.py)||
+| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1668_트로피진열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md)|복습|
 
 </details>
 
