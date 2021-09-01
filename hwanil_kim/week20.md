@@ -1,3 +1,7 @@
+## Q.58
+#### 문제: https://programmers.co.kr/learn/courses/30/lessons/42888
+#### 나의 풀이
+``` 
 def solution(record):
     answer = []
     uid_name_dict = dict()
@@ -18,3 +22,4 @@ def solution(record):
             res = f"{uid_name_dict[uid]}님이 나갔습니다."
             answer.append(res)
     return answer
+```
