@@ -1,21 +1,23 @@
-n = int(input())
-cnt = 1
-stack = []
-res = []
-
-for i in range(n):
-    data = int(input())
-    while cnt <= data:
-        stack.append(cnt)
-        cnt += 1
-        res.append('+')
-    if stack[-1] == data:
-        stack.pop()
-        res.append("-")
-    else:
-        print("NO")
-        exit(0)
-print('\n'.join(res))
+def solution(s):
+    mapping_data = {
+        "zero" : 0,
+        "one"  : 1,
+        "two"  : 2,
+        "three": 3,
+        "four" : 4,
+        "five" : 5,
+        "six"  : 6,
+        "seven": 7,
+        "eight": 8,
+        "nine" : 9
+    }
+    for k in mapping_data.keys():
+        s = s.replace(k, str(mapping_data[k]))
+    return int(s)
 
 
+s = "one4seveneight"
+
+res = solution(s)
+print(res)
 

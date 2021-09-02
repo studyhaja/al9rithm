@@ -230,6 +230,7 @@
 |AUG-4|[@naon](https://github.com/nanaon)|[HackerRank_Nested Lists](naon_jeong/hackerrank_nested-lists.py)||
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1668_트로피진열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md)|복습|
 |SEP-1|[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스 오픈채팅방](hwanil_kim/week20.md)||
+| |[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스 숫자 문자열과 영단어](hwanil_kim/week20.md)||
 
 </details>
 
@@ -237,4 +238,4 @@
 ### 벌금 현황🚨 
 |기준일|벌금자|벌금|메모|
 |:---:|:---:|:---:|:---:|
-|2021/06/27|환일|45,000||
+|2021/06/27|환일|5,000||
