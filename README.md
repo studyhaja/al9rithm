@@ -229,8 +229,19 @@
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2747_재귀함수](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md)|복습|
 |AUG-4|[@naon](https://github.com/nanaon)|[HackerRank_Nested Lists](naon_jeong/hackerrank_nested-lists.py)||
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1668_트로피진열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md)|복습|
+
+</details>
+
+---
+
+<details>
+<summary>SEP</summary>
+
+|날짜|작성자|문제|메모|
+|:---:|:---:|:---:|:---:|
 |SEP-1|[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스 오픈채팅방](hwanil_kim/week20.md)||
 | |[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스 숫자 문자열과 영단어](hwanil_kim/week20.md)||
+| |[@naon](https://github.com/nanaon)|[HackerRank_List Comprehensions](naon_jeong/hackerrank_list-comprehensions.py)||
 
 </details>
 
