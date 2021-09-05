@@ -243,6 +243,7 @@
 | |[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스 숫자 문자열과 영단어](hwanil_kim/week20.md)||
 | |[@naon](https://github.com/nanaon)|[HackerRank_List Comprehensions](naon_jeong/hackerrank_list-comprehensions.py)||
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_4195_친구네트워크](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)|복습|
+| |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스_상호평가](soheon_lee/0905_test_pass.js)|복습|
 </details>
 
 ---
