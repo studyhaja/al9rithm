@@ -1,23 +1,11 @@
 def solution(s):
-    mapping_data = {
-        "zero" : 0,
-        "one"  : 1,
-        "two"  : 2,
-        "three": 3,
-        "four" : 4,
-        "five" : 5,
-        "six"  : 6,
-        "seven": 7,
-        "eight": 8,
-        "nine" : 9
-    }
-    for k in mapping_data.keys():
-        s = s.replace(k, str(mapping_data[k]))
-    return int(s)
+    split_s = s.split(' ')
+    for i in range(len(split_s)):
+        split_s[i] = split_s[i].capitalize()
+    res = ' '.join(split_s)
+    return res
 
 
-s = "one4seveneight"
+s = "3people unFollowed me"
 
-res = solution(s)
-print(res)
-
+print(solution(s))
