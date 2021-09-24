@@ -247,6 +247,7 @@
 |SEP-2|[@naon](https://github.com/nanaon)|[HackerRank_Find the Runner-up Score!](naon_jeong/hackerrank_find-the-runner-up-score.py)||
 | |[@naon](https://github.com/nanaon)|[HackerRank_Finding the precentage](naon_jeong/hackerrank_finding-the-percentage.py)||
 | |[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스 가장 큰 수](hwanil_kim/week21.md)||
+|SEP-3|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_7490_0만들기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_7490_0%EB%A7%8C%EB%93%A4%EA%B8%B0.md)|복습|
 
 </details>
 
