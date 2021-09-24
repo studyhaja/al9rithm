@@ -249,7 +249,8 @@
 | |[@Einsicht1](https:/github.com/Einsicht1)|[프로그래머스 가장 큰 수](hwanil_kim/week21.md)||
 |SEP-3|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_7490_0만들기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_7490_0%EB%A7%8C%EB%93%A4%EA%B8%B0.md)|복습|
 |SEP-4|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 JadenCase 문자열 만들기](hwanil_kim/week22.md)||
-|SEP-4|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 최댓값과 최솟값](hwanil_kim/week22.md)||
+| |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 최댓값과 최솟값](hwanil_kim/week22.md)||
+| |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 최솟값 만들기](hwanil_kim/week22.md)||
 
 </details>
 
