@@ -252,6 +252,7 @@
 | |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 최댓값과 최솟값](hwanil_kim/week22.md)||
 | |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 최솟값 만들기](hwanil_kim/week22.md)||
 | |[@naon](https://github.com/nanaon)|[HackerRank_Lists](naon_jeong/hackerrank_lists.py)||
+| |[@soheon-lee](https://github.com/soheon-lee)|[모의고사](soheon_lee/0926_moigosa.js)||
 
 </details>
 
