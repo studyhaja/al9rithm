@@ -251,6 +251,7 @@
 |SEP-4|[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 JadenCase 문자열 만들기](hwanil_kim/week22.md)||
 | |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 최댓값과 최솟값](hwanil_kim/week22.md)||
 | |[@Einsicht1](https://github.com/Einsicht1)|[프로그래머스 최솟값 만들기](hwanil_kim/week22.md)||
+| |[@naon](https://github.com/nanaon)|[HackerRank_Lists](naon_jeong/hackerrank_lists.py)||
 
 </details>
 
