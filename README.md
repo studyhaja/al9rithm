@@ -265,7 +265,7 @@
 
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
-| |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1074_Z](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1074_Z.md)|복습|
+|OCT-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1074_Z](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1074_Z.md)|복습|
   
 </details>
 
