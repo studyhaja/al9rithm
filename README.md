@@ -255,7 +255,6 @@
 | |[@soheon-lee](https://github.com/soheon-lee)|[모의고사](soheon_lee/0926_moigosa.js)||
 | |[@HyunlangBan](https://github.com/HyunlangBan)|[백준_2110_공유기설치](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2110_%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.md)|복습|
 
-  
 </details>
 
 ---
@@ -266,6 +265,7 @@
 |날짜|작성자|문제|메모|
 |:---:|:---:|:---:|:---:|
 |OCT-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1074_Z](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1074_Z.md)|복습|
+| |[@naon](https://github.com/nanaon)|[HackerRank_Design-Door-Mat](naon_jeong/hackerrank_design-door-mat.py)||
   
 </details>
 
