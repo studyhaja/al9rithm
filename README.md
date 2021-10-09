@@ -266,6 +266,7 @@
 |:---:|:---:|:---:|:---:|
 |OCT-1|[@HyunlangBan](https://github.com/HyunlangBan)|[백준_1074_Z](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1074_Z.md)|복습|
 | |[@naon](https://github.com/nanaon)|[HackerRank_Design-Door-Mat](naon_jeong/hackerrank_design-door-mat.py)||
+|OCT-2|[@naon](https://github.com/nanaon)|[HackerRank_sWAP cASE](naon_jeong/hackerrank_swap-case.py)||
   
 </details>
 
