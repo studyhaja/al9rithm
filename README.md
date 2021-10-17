@@ -271,6 +271,7 @@
 | |[@soheon-lee](https://github.com/soheon-lee)|[프로그래머스 월간코드챌린지](soheon_lee/1010_sum.js)||
 | |[@Einsicht1](https://github.com/Einsicht1)|[백준 문열 반복](hwanil_kim/week23.md)||
 |OCT-3|[@naon](https://github.com/nanaon)|[HackerRank_Find a string](naon_jeong/hackerrank_find-a-string.py)||
+  | |[@Einsicht1](https://github.com/Einsicht1)|[최소 코인 사용](hwanil_kim/week24.md)||
   
   
   
