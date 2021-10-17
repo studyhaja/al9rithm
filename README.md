@@ -272,8 +272,7 @@
 | |[@Einsicht1](https://github.com/Einsicht1)|[백준 문열 반복](hwanil_kim/week23.md)||
 |OCT-3|[@naon](https://github.com/nanaon)|[HackerRank_Find a string](naon_jeong/hackerrank_find-a-string.py)||
   | |[@Einsicht1](https://github.com/Einsicht1)|[최소 코인 사용](hwanil_kim/week24.md)||
-  
-  
+  | |[@HyunlangBan](https://github.com/HyunlangBan)|[인프런 알고리즘 section2](https://github.com/HyunlangBan/inflean_python_algorithm/tree/main/section_2), [section3](https://github.com/HyunlangBan/inflean_python_algorithm/tree/main/section_3)| |
   
   
 </details>
